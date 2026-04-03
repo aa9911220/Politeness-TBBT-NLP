@@ -1,0 +1,979 @@
+ID	Type	Annotator	LABEL	Text								
+1	Exploration	all	N/A	Nothing, I’m fine.								
+2	Exploration	all	N/A	All right, hang on. Is this still about your mom’s book?								
+3	Exploration	all	N/A	No. Not everything is about my mom.								
+4	Exploration	all	TACT	’Cause if you’re still upset about that, we don’t have to go.								
+5	Exploration	all	N/A	Except this is totally about my mom.								
+6	Exploration	all	N/A	Hey, Claire.								
+7	Exploration	all	N/A	Hey, what’s up?								
+8	Exploration	all	TACT	Hi, yeah. Um, I was wondering, if you’re free Saturday night, all my friends are going to a wine tasting.								
+9	Exploration	all	TACT	Sure, I guess. If you don’t think meeting your friends is too big a step.								
+10	Exploration	all	N/A	Why would it be too big a step?								
+11	Exploration	all	N/A	It’s great. It’s Christmastime and Jimmy Stewart’s really depressed and he’s gonna jump off a bridge and kill himself.								
+12	Exploration	all	N/A	Don’t need to see it. Living it.								
+13	Exploration	all	N/A	But then he gets to see what the world would be like if he’d never been born.								
+14	Exploration	all	N/A	Hey, you ever imagine what that would be like? Not being born?								
+15	Exploration	all	N/A	What do you think?								
+16	Exploration	all	N/A	Okay, why don’t you just tell me what it is you have to tell me?								
+17	Exploration	all	N/A	Okay, um, well, look, it’s just that things between you and me have been going pretty quick.								
+18	Exploration	all	N/A	And?								
+19	Exploration	all	N/A	It’s just a little scary.								
+20	Exploration	all	AGREEMENT	Well, yeah, but scary good, right?								
+21	Exploration	all	N/A	Today, it’s a Chinese food retrieval robot.								
+22	Exploration	all	N/A	I don’t think that’s going to happen, Sheldon.								
+23	Exploration	all	N/A	No one ever does. That’s why it happens.								
+24	Exploration	all	N/A	Hey. Is the food here? Ooh. What’s that?								
+25	Exploration	all	N/A	That, dear lady, is the Wolowitz Programmable Hand.								
+26	Exploration	all	N/A	Oh, Tesla.								
+27	Exploration	all	N/A	Hi.								
+28	Exploration	all	N/A	Hello.								
+29	Exploration	all	N/A	Hey, how did it go?								
+30	Exploration	all	N/A	Oh, not fun. The doctor shoved a camera up into my sinuses.								
+31	Exploration	all	TACT	I say, uh, how about one, two, three, go?								
+32	Exploration	all	N/A	One-two-three-go? That’s for babies.								
+33	Exploration	all	TACT	Okay, how about, uh, on your mark, get set, go?								
+34	Exploration	all	N/A	That’s for a footrace.								
+35	Exploration	all	N/A	No, it’s chilly outside. Didn’t bring my jacket.								
+36	Exploration	all	N/A	I’m not a child, don’t do that.								
+37	Exploration	all	N/A	Sorry.								
+38	Exploration	all	N/A	Do you know 2001: A Space Odyssey? All right, now that’s soothing.								
+39	Exploration	all	TACT	Look, I get it, this is still my room, we haven’t really made it yours.								
+40	Exploration	all	N/A	No, of course not. How did you know about that?								
+41	Exploration	all	N/A	I did a comprehensive background check.								
+42	Exploration	all	N/A	Yes, I did.								
+43	Exploration	all	N/A	Hearing unimpaired, good.								
+44	Exploration	all	APPROBATION	It would be an incredible honour to work for a man of your brilliance.								
+45	Exploration	all	N/A	How could it? I never told you, and you never bothered to ask.								
+46	Exploration	all	N/A	Well, now I know.								
+47	Exploration	all	N/A	Yeah.								
+48	Exploration	all	N/A	So, Penny, I understand you have a new job.								
+49	Exploration	all	N/A	Yes. I’m a pharmaceutical sales rep.								
+50	Exploration	all	N/A	How did you get paint in your eye?								
+51	Exploration	all	N/A	Because you wouldn’t let me wear safety goggles.								
+52	Exploration	all	N/A	Will you tell this lunatic that Professor Rothman’s office is rightfully mine?								
+53	Exploration	all	TACT	Can’t you take this up with your department chairman?								
+54	Exploration	all	N/A	We tried. His assistant said he was on sabbatical.								
+55	Exploration	all	N/A	Gentlemen, there’s a task I’m trying to accomplish here.								
+56	Exploration	all	TACT	I don’t mean to be an alarmist…								
+57	Exploration	all	N/A	I’m out.								
+58	Exploration	all	TACT	I’m sorry, Ma, I have to stay late at the office.								
+59	Exploration	all	N/A	No, he doesn’t! He’s lying to you!								
+60	Exploration	all	N/A	Will you be quiet?								
+61	Exploration	all	N/A	I know. But if she orders something low-fat I’ll totally give her the full-fat version.								
+62	Exploration	all	N/A	Uh, that’s my water.								
+63	Exploration	all	N/A	What?								
+64	Exploration	all	N/A	My water. You’re drinking it.								
+65	Exploration	all	N/A	Dear Lord! Have you been drinking it?								
+66	Exploration	all	N/A	I’m getting three trains.								
+67	Exploration	all	TACT	Wait, uh, uh, hang on. In my defense…								
+68	Exploration	all	N/A	I heard you can make good money doing that.								
+69	Exploration	all	N/A	Yeah, it’s going okay, but I do miss this sometimes.								
+70	Exploration	all	N/A	Really?								
+71	Exploration	all	N/A	Mmm.								
+72	Exploration	all	N/A	I am so sick of the humiliation.								
+73	Exploration	all	N/A	So, um, Amy, Sheldon tells me you’re a neuro something-or-other.								
+74	Exploration	all	N/A	Neurobiologist. Your check engine light is on.								
+75	Exploration	all	N/A	Yeah, it’s okay.								
+76	Exploration	all	N/A	What up, guys?								
+77	Exploration	all	N/A	Hello, hey!								
+78	Exploration	all	N/A	Penny and I have some big news. We’re engaged.								
+79	Exploration	all	N/A	And I thought me having sex with Emily was gonna be the big news.								
+80	Exploration	all	N/A	Hey, hey, what the hell?								
+81	Exploration	all	N/A	Well, you don’t know the backstory.								
+82	Exploration	all	N/A	I feel cool. Like Puss in Boots.								
+83	Exploration	all	N/A	I always wanted to be a swashbuckler.								
+84	Exploration	all	N/A	Technically, swashbuckler is a combination of two terms.								
+85	Exploration	all	N/A	I don’t know.								
+86	Exploration	all	N/A	Well ask them why they’re calling at this ungodly hour.								
+87	Exploration	all	N/A	How can I ask them when I’m talking to you!								
+88	Exploration	all	N/A	Howard, it’s Leonard, code Milky Green.								
+89	Exploration	all	N/A	Dear Lord, not Milky Green!								
+90	Exploration	all	AGREEMENT	I’ve got to go with Leonard on this. He is wrong more than anyone I know.								
+91	Exploration	all	TACT	I just realized I’m on a break. I’ll get someone else.								
+92	Exploration	all	N/A	Well…								
+93	Exploration	all	N/A	Leonard, promise me you will not start a complicated relationship with her.								
+94	Exploration	all	AGREEMENT	 Yeah, good for you. 								
+95	Exploration	all	APPROBATION	That's amazing. 								
+96	Exploration	all	N/A	Thanks. I was as surprised as anybody. When they called and told me I won, I didn't  believe them. And then they said, no, you really won. And then I said, cool.								
+97	Exploration	all	APPROBATION	 Someone call George R. R. Martin, this guy knows how to finish a story. 								
+98	Exploration	all	N/A	I've gotten pretty good at telling it. Well, see ya. 								
+99	Exploration	all	APPROBATION	Terrific. Couldn't be better								
+100	Exploration	all	N/A	Oh, bite me.								
+												
+												
+101	Joint-Consolidated	all	AGREEMENT	0: person 1 - " Yeah. Israeli Krav Maga. Lots of fun. Basically, a hundred different ways to rip a guy’s nuts off."								
+102	Joint-Consolidated	all	N/A	1: person 2 - Wow. Wouldn’t think there’d be that many.								
+103	Joint-Consolidated	all	N/A	2: person 1 - Number 42!								
+104	Joint-Consolidated	all	N/A	3: person 2 - Whoa!								
+105	Joint-Consolidated	all	APPROBATION	4: person 3 - Isn’t she a pip?								
+106	Joint-Consolidated	all	N/A	0: person 1 - We’re going to Disney World and ride the Matterhorn?								
+107	Joint-Consolidated	all	N/A	1: person 2 - No.								
+108	Joint-Consolidated	all	TACT	2: person 1 - " Okay, sweetie, this started out fun, but I’m over it."								
+109	Joint-Consolidated	all	N/A	3: person 2 - We’re going to Switzerland to see the CERN supercollider! And ski. We’ll also go skiing.								
+110	Joint-Consolidated	all	N/A	4: person 1 - We’re going skiing in Switzerland?!								
+111	Joint-Consolidated	all	N/A	0: person 1 - " Oh, no, no, no, not just a blanket. See, it has sleeves. Yeah! So, you can, you know, be all snoodled up while you do your science stuff."								
+112	Joint-Consolidated	all	APPROBATION	1: person 2 - " Oh, wow, cool."								
+113	Joint-Consolidated	all	N/A	2: person 1 - " Oh, I’m gonn/a miss you. (She hugs him for a long time) See you later."								
+114	Joint-Consolidated	all	N/A	3: person 2 - Bye.								
+115	Joint-Consolidated	all	N/A	4: person 3 - I told you no. Why don’t you believe me?								
+116	Joint-Consolidated	all	N/A	0: person 1 - I possess the Dn/a of Leon/ard Nimoy?!								
+117	Joint-Consolidated	all	N/A	1: person 2 - " Well, yeah, yeah, I guess. But look, he signed it."								
+118	Joint-Consolidated	all	N/A	2: person 1 - Do you realize what this means? All I need is a healthy ovum and I can grow my own Leon/ard Nimoy!								
+119	Joint-Consolidated	all	AGREEMENT	3: person 2 - " Okay, all I’m giving you is the n/apkin, Sheldon."								
+120	Joint-Consolidated	all	N/A	4: person 1 - Be right back.								
+121	Joint-Consolidated	all	N/A	0: person 1 - I was hoping she might listen to you about the dangers of owning unhygienic furniture.								
+122	Joint-Consolidated	all	N/A	1: person 2 - " For general education/al purposes, or has she acquired a bar stool dipped in cholera?"								
+123	Joint-Consolidated	all	N/A	2: person 1 - Cholera is water-borne. You’re mocking me.								
+124	Joint-Consolidated	all	AGREEMENT	3: person 2 - " Yes, I am."								
+125	Joint-Consolidated	all	N/A	4: person 1 - Penny has dragged a chair in off the street whose unknown proven/ance jeopardizes the health and welfare of every resident in our building.								
+126	Joint-Consolidated	all	N/A	0: person 1 - " Mm. Well, I think more about if I’d have any regrets."								
+127	Joint-Consolidated	all	N/A	1: person 2 - What would you regret?								
+128	Joint-Consolidated	all	N/A	2: person 1 - " Mm, you know, that I didn’t travel more, take more risks, learn another language."								
+129	Joint-Consolidated	all	N/A	3: person 2 - You know Klingon.								
+130	Joint-Consolidated	all	AGREEMENT	4: person 1 - That’s true.								
+131	Joint-Consolidated	all	N/A	0: person 1 - I may be moving out soon. I think I found a place to live.								
+132	Joint-Consolidated	all	SYMPATHY	1: person 2 - " Oh, I’m sorry to hear that."								
+133	Joint-Consolidated	all	N/A	2: person 1 - Really? You kept sending me apartment listings.								
+134	Joint-Consolidated	all	AGREEMENT	3: person 2 - " Um, well, I, yeah, you got me."								
+135	Joint-Consolidated	all	N/A	4: person 3 - Where are you moving?								
+136	Joint-Consolidated	all	N/A	0: Scene - Penny’s apartment.								
+137	Joint-Consolidated	all	TACT	1: person 1 - You ready to go?								
+138	Joint-Consolidated	all	N/A	2: person 2 - " Yep. Hey, and maybe this time you don’t try and talk sports with the guys."								
+139	Joint-Consolidated	all	N/A	3: person 1 - Some sports bar. It’s like they never even heard of Quidditch. Do we really have to go?								
+140	Joint-Consolidated	all	N/A	4: person 2 - " Oh, come on. Every time we’re about to hang out with my friends, you don’t want to. It’s like, It’s too loud, or the bathroom’s too dirty, or they put a chicken wing in my ear. I mean…"								
+141	Joint-Consolidated	all	N/A	0: person 1 - " Well, you know, I’ve always been a fan of a story told by Attar of Nishapur, about a king who assembled a group of wise men to create a ring that would make him happy when he was sad. And that ring was inscribed with the phrase, this too shall pass."								
+142	Joint-Consolidated	all	N/A	1: person 2 - " Hey, Cooper. I heard you dwunk-dialed Stephen Hawking last night? Classic."								
+143	Joint-Consolidated	all	N/A	2: person 3 - " Get out of here, Barry."								
+144	Joint-Consolidated	all	AGREEMENT	3: person 2 - " Whatever you say, Cwogziwwa."								
+145	Joint-Consolidated	all	N/A	4: person 1 - Clogzilla. That’s pretty funny. I don’t think that’s gonn/a pass.								
+146	Joint-Consolidated	all	N/A	0: person 1 - " Alright, alright, well, just, sit down, yes, sit down, now close your eyes."								
+147	Joint-Consolidated	all	N/A	1: person 2 - Why?								
+148	Joint-Consolidated	all	N/A	2: person 1 - Just do it.								
+149	Joint-Consolidated	all	AGREEMENT	3: person 2 - Okay.								
+150	Joint-Consolidated	all	N/A	4: person 1 - Now try to increase your alpha-wave activity.								
+151	Joint-Consolidated	all	N/A	0: person 1 - " Oh, and I thought our days of pretending to be with women who don’t exist were over."								
+152	Joint-Consolidated	all	N/A	1: person 2 - " Gentlemen, I am one step away from securing a huge guest for my convention."								
+153	Joint-Consolidated	all	N/A	2: person 3 - Does that step include chloroform and a roll of duct tape?								
+154	Joint-Consolidated	all	TACT	3: person 2 - " I don’t think that will be necessary for Mr. James Earl Jones. You heard me. The voice of Darth Vader, the Lion King’s dad, and FYI, the guy who says, This is CNN. Which also sounds like Darth Vader."								
+155	Joint-Consolidated	all	N/A	4: person 4 - How are you gonn/a get James Earl Jones?								
+156	Joint-Consolidated	all	APPROBATION	0: person 1 - " Yes, you were very n/atural in front of the camera, and I found your suggestions extremely helpful."								
+157	Joint-Consolidated	all	SYMPATHY	1: person 2 - " Aw, sweetie, you just made my day."								
+158	Joint-Consolidated	all	N/A	2: person 1 - Okay.								
+159	Joint-Consolidated	all	TACT	3: person 2 - " Hey, my acting class is putting on a play Friday night. I could put you and Amy on the guest list."								
+160	Joint-Consolidated	all	N/A	4: person 1 - " Oh, that sounds terrible. Why would I want to do that?"								
+161	Joint-Consolidated	all	N/A	0: person 1 - I don’t know. Kryptonian mustard.								
+162	Joint-Consolidated	all	TACT	1: person 2 - I think we can safely assume that all Kryptonian condiments were destroyed when the planet Krypton exploded.								
+163	Joint-Consolidated	all	N/A	2: person 3 - " Or it turned into mustard Kryptonite, the only way to destroy a rogue Kryptonian hotdog threatening Earth."								
+164	Joint-Consolidated	all	TACT	3: person 4 - " Raj, please, let’s stay serious here. Superman’s body is Kryptonian, therefore his sweat is Kryptonian."								
+165	Joint-Consolidated	all	N/A	4: person 1 - " Yeah, what about Kryptonian pit stains?"								
+166	Joint-Consolidated	all	TACT	0: person 1 - " Sorry, sorry, sorry, sorry, sorry."								
+167	Joint-Consolidated	all	N/A	1: person 2 - " In order to live long enough to fuse my consciousness with cybernetics, I need to change my diet."								
+168	Joint-Consolidated	all	N/A	2: person 1 - " Wait. Cybernetics is robot stuff, right?"								
+169	Joint-Consolidated	all	N/A	3: person 2 - Correct.								
+170	Joint-Consolidated	all	N/A	4: person 1 - So you want to turn yourself into some sort of robot?								
+171	Joint-Consolidated	all	N/A	0: person 1 - Here.								
+172	Joint-Consolidated	all	N/A	1: person 2 - " She’s here, the baby’s here."								
+173	Joint-Consolidated	all	N/A	2: person 1 - Oh!								
+174	Joint-Consolidated	all	SYMPATHY	3: person 3 - Congratulations.								
+175	Joint-Consolidated	all	N/A	4: person 4 - How’s Bern/adette?								
+176	Joint-Consolidated	all	N/A	0: Scene - " The same, shortly after, demonstrating the quantum gyroscope. "								
+177	Joint-Consolidated	all	N/A	1: person 1 - " And because of the quantum vortices, this can run perpetually?"								
+178	Joint-Consolidated	all	APPROBATION	2: person 2 - " Exactly. Yeah, you have a good grasp of the physics."								
+179	Joint-Consolidated	all	N/A	3: person 1 - " Well, I’m a scientist by training."								
+180	Joint-Consolidated	all	N/A	4: person 3 - Really? You’re a physicist?								
+181	Joint-Consolidated	all	N/A	0: person 1 - Sounds like your neighbour’s home.								
+182	Joint-Consolidated	all	TACT	1: person 2 - Excuse me.								
+183	Joint-Consolidated	all	N/A	2: person 3 - Don’t forget the mail you took accidentally on purpose so you’d have an excuse to talk to her.								
+184	Joint-Consolidated	all	AGREEMENT	3: person 2 - " Oh, right, right right right right."								
+185	Joint-Consolidated	all	APPROBATION	4: person 1 - " Stealing sn/ail mail, very old school, I like it. "								
+186	Joint-Consolidated	all	N/A	0: person 1 - Yeah.								
+187	Joint-Consolidated	all	N/A	1: person 2 - I don’t. I have a hole in my belly button that may or may not have been a piercing.								
+188	Joint-Consolidated	all	APPROBATION	2: person 1 - That’s cool.								
+189	Joint-Consolidated	all	N/A	3: person 2 - " It’s a piercing. So, uh, how many tattoos?"								
+190	Joint-Consolidated	all	N/A	4: person 1 - " One on my shoulder, one not on my shoulder and one really not on my shoulder."								
+191	Joint-Consolidated	all	N/A	0: person 1 - Then what were you doing there?								
+192	Joint-Consolidated	all	N/A	1: person 2 - I lied. I love them. I only said that so you’d go out with me.								
+193	Joint-Consolidated	all	TACT	2: person 1 - " Oh, you don’t want to do that. I’m kind of broken."								
+194	Joint-Consolidated	all	SYMPATHY	3: person 2 - " That’s great. I’m broken, too."								
+195	Joint-Consolidated	all	APPROBATION	4: person 1 - " Oh, no, you’re not."								
+196	Joint-Consolidated	all	N/A	0: person 1 - " Yeah. I was at a science-fiction convention, and I saw a woman dressed as your half-ape character."								
+197	Joint-Consolidated	all	N/A	1: person 2 - " Oh, if she was with an Indian guy dressed like a ban/an/a, that was just my friends, Howard and Raj."								
+198	Joint-Consolidated	all	N/A	2: person 1 - " All right, it’s time for a very special guest caller, a friend of mine, who you probably know as the director of such movies as Clerks, or from podcasts and books where he often reminds you that he’s the guy who directed Clerks. Hello, Kevin Smith."								
+199	Joint-Consolidated	all	N/A	3: person 3 - " Hey, man, yo, is everything okay, Wil? ‘Cause it’s been, like, two minutes and you haven’t even brought up Stand By Me."								
+200	Joint-Consolidated	all	APPROBATION	4: person 4 - " Hey, Kevin. It’s really exciting to talk to you."								
+226	Joint-Individual	joel	agreement	0: person 1 - " Yeah. Israeli Krav Maga. Lots of fun. Basically, a hundred different ways to rip a guy’s nuts off."								
+227	Joint-Individual	joel	n/a	1: person 2 - Wow. Wouldn’t think there’d be that many.								
+228	Joint-Individual	joel	n/a	2: person 1 - Number 42!								
+229	Joint-Individual	joel	n/a	3: person 2 - Whoa!								
+230	Joint-Individual	joel	approbation	4: person 3 - Isn’t she a pip?								
+231	Joint-Individual	joel	n/a	0: person 1 - We’re going to Disney World and ride the Matterhorn?								
+232	Joint-Individual	joel	n/a	1: person 2 - No.								
+233	Joint-Individual	joel	tact	2: person 1 - " Okay, sweetie, this started out fun, but I’m over it."								
+234	Joint-Individual	joel	n/a	3: person 2 - We’re going to Switzerland to see the CERN supercollider! And ski. We’ll also go skiing.								
+235	Joint-Individual	joel	n/a	4: person 1 - We’re going skiing in Switzerland?!								
+236	Joint-Individual	joel	n/a	0: person 1 - " Oh, no, no, no, not just a blanket. See, it has sleeves. Yeah! So, you can, you know, be all snoodled up while you do your science stuff."								
+237	Joint-Individual	joel	approbation	1: person 2 - " Oh, wow, cool."								
+238	Joint-Individual	joel	sympathy	2: person 1 - " Oh, I’m gonn/a miss you. (She hugs him for a long time) See you later."								
+239	Joint-Individual	joel	n/a	3: person 2 - Bye.								
+240	Joint-Individual	joel	n/a	4: person 3 - I told you no. Why don’t you believe me?								
+241	Joint-Individual	joel	n/a	0: person 1 - I possess the Dn/a of Leon/ard Nimoy?!								
+242	Joint-Individual	joel	n/a	1: person 2 - " Well, yeah, yeah, I guess. But look, he signed it."								
+243	Joint-Individual	joel	n/a	2: person 1 - Do you realize what this means? All I need is a healthy ovum and I can grow my own Leon/ard Nimoy!								
+244	Joint-Individual	joel	agreement	3: person 2 - " Okay, all I’m giving you is the n/apkin, Sheldon."								
+245	Joint-Individual	joel	n/a	4: person 1 - Be right back.								
+246	Joint-Individual	joel	n/a	0: person 1 - I was hoping she might listen to you about the dangers of owning unhygienic furniture.								
+247	Joint-Individual	joel	n/a	1: person 2 - " For general education/al purposes, or has she acquired a bar stool dipped in cholera?"								
+248	Joint-Individual	joel	n/a	2: person 1 - Cholera is water-borne. You’re mocking me.								
+249	Joint-Individual	joel	agreement	3: person 2 - " Yes, I am."								
+250	Joint-Individual	joel	n/a	4: person 1 - Penny has dragged a chair in off the street whose unknown proven/ance jeopardizes the health and welfare of every resident in our building.								
+251	Joint-Individual	joel	n/a	0: person 1 - " Mm. Well, I think more about if I’d have any regrets."								
+252	Joint-Individual	joel	n/a	1: person 2 - What would you regret?								
+253	Joint-Individual	joel	n/a	2: person 1 - " Mm, you know, that I didn’t travel more, take more risks, learn another language."								
+254	Joint-Individual	joel	n/a	3: person 2 - You know Klingon.								
+255	Joint-Individual	joel	agreement	4: person 1 - That’s true.								
+256	Joint-Individual	joel	n/a	0: person 1 - I may be moving out soon. I think I found a place to live.								
+257	Joint-Individual	joel	sympathy	1: person 2 - " Oh, I’m sorry to hear that."								
+258	Joint-Individual	joel	n/a	2: person 1 - Really? You kept sending me apartment listings.								
+259	Joint-Individual	joel	agreement	3: person 2 - " Um, well, I, yeah, you got me."								
+260	Joint-Individual	joel	n/a	4: person 3 - Where are you moving?								
+261	Joint-Individual	joel	n/a	0: Scene - Penny’s apartment.								
+262	Joint-Individual	joel	tact	1: person 1 - You ready to go?								
+263	Joint-Individual	joel	n/a	2: person 2 - " Yep. Hey, and maybe this time you don’t try and talk sports with the guys."								
+264	Joint-Individual	joel	n/a	3: person 1 - Some sports bar. It’s like they never even heard of Quidditch. Do we really have to go?								
+265	Joint-Individual	joel	n/a	4: person 2 - " Oh, come on. Every time we’re about to hang out with my friends, you don’t want to. It’s like, It’s too loud, or the bathroom’s too dirty, or they put a chicken wing in my ear. I mean…"								
+266	Joint-Individual	joel	n/a	0: person 1 - " Well, you know, I’ve always been a fan of a story told by Attar of Nishapur, about a king who assembled a group of wise men to create a ring that would make him happy when he was sad. And that ring was inscribed with the phrase, this too shall pass."								
+267	Joint-Individual	joel	n/a	1: person 2 - " Hey, Cooper. I heard you dwunk-dialed Stephen Hawking last night? Classic."								
+268	Joint-Individual	joel	n/a	2: person 3 - " Get out of here, Barry."								
+269	Joint-Individual	joel	n/a	3: person 2 - " Whatever you say, Cwogziwwa."								
+270	Joint-Individual	joel	n/a	4: person 1 - Clogzilla. That’s pretty funny. I don’t think that’s gonn/a pass.								
+271	Joint-Individual	joel	n/a	0: person 1 - " Alright, alright, well, just, sit down, yes, sit down, now close your eyes."								
+272	Joint-Individual	joel	n/a	1: person 2 - Why?								
+273	Joint-Individual	joel	n/a	2: person 1 - Just do it.								
+274	Joint-Individual	joel	agreement	3: person 2 - Okay.								
+275	Joint-Individual	joel	n/a	4: person 1 - Now try to increase your alpha-wave activity.								
+276	Joint-Individual	joel	n/a	0: person 1 - " Oh, and I thought our days of pretending to be with women who don’t exist were over."								
+277	Joint-Individual	joel	n/a	1: person 2 - " Gentlemen, I am one step away from securing a huge guest for my convention."								
+278	Joint-Individual	joel	n/a	2: person 3 - Does that step include chloroform and a roll of duct tape?								
+279	Joint-Individual	joel	n/a	3: person 2 - " I don’t think that will be necessary for Mr. James Earl Jones. You heard me. The voice of Darth Vader, the Lion King’s dad, and FYI, the guy who says, This is CNN. Which also sounds like Darth Vader."								
+280	Joint-Individual	joel	n/a	4: person 4 - How are you gonn/a get James Earl Jones?								
+281	Joint-Individual	joel	approbation	0: person 1 - " Yes, you were very n/atural in front of the camera, and I found your suggestions extremely helpful."								
+282	Joint-Individual	joel	sympathy	1: person 2 - " Aw, sweetie, you just made my day."								
+283	Joint-Individual	joel	n/a	2: person 1 - Okay.								
+284	Joint-Individual	joel	n/a	3: person 2 - " Hey, my acting class is putting on a play Friday night. I could put you and Amy on the guest list."								
+285	Joint-Individual	joel	n/a	4: person 1 - " Oh, that sounds terrible. Why would I want to do that?"								
+286	Joint-Individual	joel	n/a	0: person 1 - I don’t know. Kryptonian mustard.								
+287	Joint-Individual	joel	n/a	1: person 2 - I think we can safely assume that all Kryptonian condiments were destroyed when the planet Krypton exploded.								
+288	Joint-Individual	joel	n/a	2: person 3 - " Or it turned into mustard Kryptonite, the only way to destroy a rogue Kryptonian hotdog threatening Earth."								
+289	Joint-Individual	joel	n/a	3: person 4 - " Raj, please, let’s stay serious here. Superman’s body is Kryptonian, therefore his sweat is Kryptonian."								
+290	Joint-Individual	joel	n/a	4: person 1 - " Yeah, what about Kryptonian pit stains?"								
+291	Joint-Individual	joel	tact	0: person 1 - " Sorry, sorry, sorry, sorry, sorry."								
+292	Joint-Individual	joel	n/a	1: person 2 - " In order to live long enough to fuse my consciousness with cybernetics, I need to change my diet."								
+293	Joint-Individual	joel	n/a	2: person 1 - " Wait. Cybernetics is robot stuff, right?"								
+294	Joint-Individual	joel	n/a	3: person 2 - Correct.								
+295	Joint-Individual	joel	n/a	4: person 1 - So you want to turn yourself into some sort of robot?								
+296	Joint-Individual	joel	n/a	0: person 1 - Here.								
+297	Joint-Individual	joel	n/a	1: person 2 - " She’s here, the baby’s here."								
+298	Joint-Individual	joel	n/a	2: person 1 - Oh!								
+299	Joint-Individual	joel	sympathy	3: person 3 - Congratulations.								
+300	Joint-Individual	joel	n/a	4: person 4 - How’s Bern/adette?								
+301	Joint-Individual	joel	n/a	0: Scene - " The same, shortly after, demonstrating the quantum gyroscope. "								
+302	Joint-Individual	joel	n/a	1: person 1 - " And because of the quantum vortices, this can run perpetually?"								
+303	Joint-Individual	joel	approbation	2: person 2 - " Exactly. Yeah, you have a good grasp of the physics."								
+304	Joint-Individual	joel	n/a	3: person 1 - " Well, I’m a scientist by training."								
+305	Joint-Individual	joel	n/a	4: person 3 - Really? You’re a physicist?								
+306	Joint-Individual	joel	n/a	0: person 1 - Sounds like your neighbour’s home.								
+307	Joint-Individual	joel	n/a	1: person 2 - Excuse me.								
+308	Joint-Individual	joel	n/a	2: person 3 - Don’t forget the mail you took accidentally on purpose so you’d have an excuse to talk to her.								
+309	Joint-Individual	joel	agreement	3: person 2 - " Oh, right, right right right right."								
+310	Joint-Individual	joel	n/a	4: person 1 - " Stealing sn/ail mail, very old school, I like it. "								
+311	Joint-Individual	joel	n/a	0: person 1 - Yeah.								
+312	Joint-Individual	joel	n/a	1: person 2 - I don’t. I have a hole in my belly button that may or may not have been a piercing.								
+313	Joint-Individual	joel	n/a	2: person 1 - That’s cool.								
+314	Joint-Individual	joel	n/a	3: person 2 - " It’s a piercing. So, uh, how many tattoos?"								
+315	Joint-Individual	joel	sympathy	4: person 1 - " One on my shoulder, one not on my shoulder and one really not on my shoulder."								
+316	Joint-Individual	joel	n/a	0: person 1 - Then what were you doing there?								
+317	Joint-Individual	joel	n/a	1: person 2 - I lied. I love them. I only said that so you’d go out with me.								
+318	Joint-Individual	joel	n/a	2: person 1 - " Oh, you don’t want to do that. I’m kind of broken."								
+319	Joint-Individual	joel	agreement	3: person 2 - " That’s great. I’m broken, too."								
+320	Joint-Individual	joel	approbation	4: person 1 - " Oh, no, you’re not."								
+321	Joint-Individual	joel	n/a	0: person 1 - " Yeah. I was at a science-fiction convention, and I saw a woman dressed as your half-ape character."								
+322	Joint-Individual	joel	n/a	1: person 2 - " Oh, if she was with an Indian guy dressed like a ban/an/a, that was just my friends, Howard and Raj."								
+323	Joint-Individual	joel	n/a	2: person 1 - " All right, it’s time for a very special guest caller, a friend of mine, who you probably know as the director of such movies as Clerks, or from podcasts and books where he often reminds you that he’s the guy who directed Clerks. Hello, Kevin Smith."								
+324	Joint-Individual	joel	n/a	3: person 3 - " Hey, man, yo, is everything okay, Wil? ‘Cause it’s been, like, two minutes and you haven’t even brought up Stand By Me."								
+325	Joint-Individual	joel	approbation	4: person 4 - " Hey, Kevin. It’s really exciting to talk to you."								
+1	Joint-Individual	nora	n/a	0: person 1 - " Yeah. Israeli Krav Maga. Lots of fun. Basically, a hundred different ways to rip a guy’s nuts off."								
+2	Joint-Individual	nora	approbation	1: person 2 - Wow. Wouldn’t think there’d be that many.								
+3	Joint-Individual	nora	n/a	2: person 1 - Number 42!								
+4	Joint-Individual	nora	n/a	3: person 2 - Whoa!								
+5	Joint-Individual	nora	approbation	4: person 3 - Isn’t she a pip?								
+6	Joint-Individual	nora	n/a	0: person 1 - We’re going to Disney World and ride the Matterhorn?								
+7	Joint-Individual	nora	n/a	1: person 2 - No.								
+8	Joint-Individual	nora	tact	2: person 1 - " Okay, sweetie, this started out fun, but I’m over it."								
+9	Joint-Individual	nora	n/a	3: person 2 - We’re going to Switzerland to see the CERN supercollider! And ski. We’ll also go skiing.								
+10	Joint-Individual	nora	n/a	4: person 1 - We’re going skiing in Switzerland?!								
+11	Joint-Individual	nora	n/a	0: person 1 - " Oh, no, no, no, not just a blanket. See, it has sleeves. Yeah! So, you can, you know, be all snoodled up while you do your science stuff."								
+12	Joint-Individual	nora	agreement	1: person 2 - " Oh, wow, cool."								
+13	Joint-Individual	nora	n/a	2: person 1 - " Oh, I’m gonn/a miss you. (She hugs him for a long time) See you later."								
+14	Joint-Individual	nora	n/a	3: person 2 - Bye.								
+15	Joint-Individual	nora	n/a	4: person 3 - I told you no. Why don’t you believe me?								
+16	Joint-Individual	nora	n/a	0: person 1 - I possess the Dn/a of Leon/ard Nimoy?!								
+17	Joint-Individual	nora	agreement	1: person 2 - " Well, yeah, yeah, I guess. But look, he signed it."								
+18	Joint-Individual	nora	n/a	2: person 1 - Do you realize what this means? All I need is a healthy ovum and I can grow my own Leon/ard Nimoy!								
+19	Joint-Individual	nora	agreement	3: person 2 - " Okay, all I’m giving you is the n/apkin, Sheldon."								
+20	Joint-Individual	nora	n/a	4: person 1 - Be right back.								
+21	Joint-Individual	nora	n/a	0: person 1 - I was hoping she might listen to you about the dangers of owning unhygienic furniture.								
+22	Joint-Individual	nora	n/a	1: person 2 - " For general education/al purposes, or has she acquired a bar stool dipped in cholera?"								
+23	Joint-Individual	nora	n/a	2: person 1 - Cholera is water-borne. You’re mocking me.								
+24	Joint-Individual	nora	n/a	3: person 2 - " Yes, I am."								
+25	Joint-Individual	nora	n/a	4: person 1 - Penny has dragged a chair in off the street whose unknown proven/ance jeopardizes the health and welfare of every resident in our building.								
+26	Joint-Individual	nora	n/a	0: person 1 - " Mm. Well, I think more about if I’d have any regrets."								
+27	Joint-Individual	nora	n/a	1: person 2 - What would you regret?								
+28	Joint-Individual	nora	n/a	2: person 1 - " Mm, you know, that I didn’t travel more, take more risks, learn another language."								
+29	Joint-Individual	nora	n/a	3: person 2 - You know Klingon.								
+30	Joint-Individual	nora	agreement	4: person 1 - That’s true.								
+31	Joint-Individual	nora	n/a	0: person 1 - I may be moving out soon. I think I found a place to live.								
+32	Joint-Individual	nora	approbation	1: person 2 - " Oh, I’m sorry to hear that."								
+33	Joint-Individual	nora	n/a	2: person 1 - Really? You kept sending me apartment listings.								
+34	Joint-Individual	nora	agreement	3: person 2 - " Um, well, I, yeah, you got me."								
+35	Joint-Individual	nora	n/a	4: person 3 - Where are you moving?								
+36	Joint-Individual	nora	n/a	0: Scene - Penny’s apartment.								
+37	Joint-Individual	nora	n/a	1: person 1 - You ready to go?								
+38	Joint-Individual	nora	n/a	2: person 2 - " Yep. Hey, and maybe this time you don’t try and talk sports with the guys."								
+39	Joint-Individual	nora	n/a	3: person 1 - Some sports bar. It’s like they never even heard of Quidditch. Do we really have to go?								
+40	Joint-Individual	nora	n/a	4: person 2 - " Oh, come on. Every time we’re about to hang out with my friends, you don’t want to. It’s like, It’s too loud, or the bathroom’s too dirty, or they put a chicken wing in my ear. I mean…"								
+41	Joint-Individual	nora	n/a	0: person 1 - " Well, you know, I’ve always been a fan of a story told by Attar of Nishapur, about a king who assembled a group of wise men to create a ring that would make him happy when he was sad. And that ring was inscribed with the phrase, this too shall pass."								
+42	Joint-Individual	nora	n/a	1: person 2 - " Hey, Cooper. I heard you dwunk-dialed Stephen Hawking last night? Classic."								
+43	Joint-Individual	nora	n/a	2: person 3 - " Get out of here, Barry."								
+44	Joint-Individual	nora	agreement	3: person 2 - " Whatever you say, Cwogziwwa."								
+45	Joint-Individual	nora	approbation	4: person 1 - Clogzilla. That’s pretty funny. I don’t think that’s gonn/a pass.								
+46	Joint-Individual	nora	n/a	0: person 1 - " Alright, alright, well, just, sit down, yes, sit down, now close your eyes."								
+47	Joint-Individual	nora	n/a	1: person 2 - Why?								
+48	Joint-Individual	nora	n/a	2: person 1 - Just do it.								
+49	Joint-Individual	nora	agreement	3: person 2 - Okay.								
+50	Joint-Individual	nora	n/a	4: person 1 - Now try to increase your alpha-wave activity.								
+51	Joint-Individual	nora	n/a	0: person 1 - " Oh, and I thought our days of pretending to be with women who don’t exist were over."								
+52	Joint-Individual	nora	n/a	1: person 2 - " Gentlemen, I am one step away from securing a huge guest for my convention."								
+53	Joint-Individual	nora	n/a	2: person 3 - Does that step include chloroform and a roll of duct tape?								
+54	Joint-Individual	nora	tact	3: person 2 - " I don’t think that will be necessary for Mr. James Earl Jones. You heard me. The voice of Darth Vader, the Lion King’s dad, and FYI, the guy who says, This is CNN. Which also sounds like Darth Vader."								
+55	Joint-Individual	nora	n/a	4: person 4 - How are you gonn/a get James Earl Jones?								
+56	Joint-Individual	nora	approbation	0: person 1 - " Yes, you were very n/atural in front of the camera, and I found your suggestions extremely helpful."								
+57	Joint-Individual	nora	approbation	1: person 2 - " Aw, sweetie, you just made my day."								
+58	Joint-Individual	nora	agreement	2: person 1 - Okay.								
+59	Joint-Individual	nora	tact	3: person 2 - " Hey, my acting class is putting on a play Friday night. I could put you and Amy on the guest list."								
+60	Joint-Individual	nora	n/a	4: person 1 - " Oh, that sounds terrible. Why would I want to do that?"								
+61	Joint-Individual	nora	n/a	0: person 1 - I don’t know. Kryptonian mustard.								
+62	Joint-Individual	nora	tact	1: person 2 - I think we can safely assume that all Kryptonian condiments were destroyed when the planet Krypton exploded.								
+63	Joint-Individual	nora	n/a	2: person 3 - " Or it turned into mustard Kryptonite, the only way to destroy a rogue Kryptonian hotdog threatening Earth."								
+64	Joint-Individual	nora	n/a	3: person 4 - " Raj, please, let’s stay serious here. Superman’s body is Kryptonian, therefore his sweat is Kryptonian."								
+65	Joint-Individual	nora	n/a	4: person 1 - " Yeah, what about Kryptonian pit stains?"								
+66	Joint-Individual	nora	tact	0: person 1 - " Sorry, sorry, sorry, sorry, sorry."								
+67	Joint-Individual	nora	n/a	1: person 2 - " In order to live long enough to fuse my consciousness with cybernetics, I need to change my diet."								
+68	Joint-Individual	nora	n/a	2: person 1 - " Wait. Cybernetics is robot stuff, right?"								
+69	Joint-Individual	nora	n/a	3: person 2 - Correct.								
+70	Joint-Individual	nora	n/a	4: person 1 - So you want to turn yourself into some sort of robot?								
+71	Joint-Individual	nora	n/a	0: person 1 - Here.								
+72	Joint-Individual	nora	n/a	1: person 2 - " She’s here, the baby’s here."								
+73	Joint-Individual	nora	n/a	2: person 1 - Oh!								
+74	Joint-Individual	nora	sympathy	3: person 3 - Congratulations.								
+75	Joint-Individual	nora	n/a	4: person 4 - How’s Bern/adette?								
+76	Joint-Individual	nora	n/a	0: Scene - " The same, shortly after, demonstrating the quantum gyroscope. "								
+77	Joint-Individual	nora	n/a	1: person 1 - " And because of the quantum vortices, this can run perpetually?"								
+78	Joint-Individual	nora	approbation	2: person 2 - " Exactly. Yeah, you have a good grasp of the physics."								
+79	Joint-Individual	nora	n/a	3: person 1 - " Well, I’m a scientist by training."								
+80	Joint-Individual	nora	n/a	4: person 3 - Really? You’re a physicist?								
+81	Joint-Individual	nora	n/a	0: person 1 - Sounds like your neighbour’s home.								
+82	Joint-Individual	nora	tact	1: person 2 - Excuse me.								
+83	Joint-Individual	nora	n/a	2: person 3 - Don’t forget the mail you took accidentally on purpose so you’d have an excuse to talk to her.								
+84	Joint-Individual	nora	agreement	3: person 2 - " Oh, right, right right right right."								
+85	Joint-Individual	nora	approbation	4: person 1 - " Stealing sn/ail mail, very old school, I like it. "								
+86	Joint-Individual	nora	agreement	0: person 1 - Yeah.								
+87	Joint-Individual	nora	n/a	1: person 2 - I don’t. I have a hole in my belly button that may or may not have been a piercing.								
+88	Joint-Individual	nora	approbation	2: person 1 - That’s cool.								
+89	Joint-Individual	nora	n/a	3: person 2 - " It’s a piercing. So, uh, how many tattoos?"								
+90	Joint-Individual	nora	n/a	4: person 1 - " One on my shoulder, one not on my shoulder and one really not on my shoulder."								
+91	Joint-Individual	nora	n/a	0: person 1 - Then what were you doing there?								
+92	Joint-Individual	nora	agreement	1: person 2 - I lied. I love them. I only said that so you’d go out with me.								
+93	Joint-Individual	nora	tact	2: person 1 - " Oh, you don’t want to do that. I’m kind of broken."								
+94	Joint-Individual	nora	approbation	3: person 2 - " That’s great. I’m broken, too."								
+95	Joint-Individual	nora	approbation	4: person 1 - " Oh, no, you’re not."								
+96	Joint-Individual	nora	n/a	0: person 1 - " Yeah. I was at a science-fiction convention, and I saw a woman dressed as your half-ape character."								
+97	Joint-Individual	nora	n/a	1: person 2 - " Oh, if she was with an Indian guy dressed like a ban/an/a, that was just my friends, Howard and Raj."								
+98	Joint-Individual	nora	n/a	2: person 1 - " All right, it’s time for a very special guest caller, a friend of mine, who you probably know as the director of such movies as Clerks, or from podcasts and books where he often reminds you that he’s the guy who directed Clerks. Hello, Kevin Smith."								
+99	Joint-Individual	nora	n/a	3: person 3 - " Hey, man, yo, is everything okay, Wil? ‘Cause it’s been, like, two minutes and you haven’t even brought up Stand By Me."								
+100	Joint-Individual	nora	approbation	4: person 4 - " Hey, Kevin. It’s really exciting to talk to you."								
+445	Joint-Individual	huanyu	agreement	0: person 1 - " Yeah. Israeli Krav Maga. Lots of fun. Basically, a hundred different ways to rip a guy’s nuts off."								
+446	Joint-Individual	huanyu	n/a	1: person 2 - Wow. Wouldn’t think there’d be that many.								
+447	Joint-Individual	huanyu	n/a	2: person 1 - Number 42!								
+448	Joint-Individual	huanyu	n/a	3: person 2 - Whoa!								
+449	Joint-Individual	huanyu	n/a	4: person 3 - Isn’t she a pip?								
+450	Joint-Individual	huanyu	n/a	0: person 1 - We’re going to Disney World and ride the Matterhorn?								
+451	Joint-Individual	huanyu	n/a	1: person 2 - No.								
+452	Joint-Individual	huanyu	tact	2: person 1 - " Okay, sweetie, this started out fun, but I’m over it."								
+453	Joint-Individual	huanyu	n/a	3: person 2 - We’re going to Switzerland to see the CERN supercollider! And ski. We’ll also go skiing.								
+454	Joint-Individual	huanyu	n/a	4: person 1 - We’re going skiing in Switzerland?!								
+455	Joint-Individual	huanyu	n/a	0: person 1 - " Oh, no, no, no, not just a blanket. See, it has sleeves. Yeah! So, you can, you know, be all snoodled up while you do your science stuff."								
+456	Joint-Individual	huanyu	approbation	1: person 2 - " Oh, wow, cool."								
+457	Joint-Individual	huanyu	n/a	2: person 1 - " Oh, I’m gonn/a miss you. (She hugs him for a long time) See you later."								
+458	Joint-Individual	huanyu	n/a	3: person 2 - Bye.								
+459	Joint-Individual	huanyu	n/a	4: person 3 - I told you no. Why don’t you believe me?								
+460	Joint-Individual	huanyu	n/a	0: person 1 - I possess the Dn/a of Leon/ard Nimoy?!								
+461	Joint-Individual	huanyu	n/a	1: person 2 - " Well, yeah, yeah, I guess. But look, he signed it."								
+462	Joint-Individual	huanyu	n/a	2: person 1 - Do you realize what this means? All I need is a healthy ovum and I can grow my own Leon/ard Nimoy!								
+463	Joint-Individual	huanyu	n/a	3: person 2 - " Okay, all I’m giving you is the n/apkin, Sheldon."								
+464	Joint-Individual	huanyu	n/a	4: person 1 - Be right back.								
+465	Joint-Individual	huanyu	n/a	0: person 1 - I was hoping she might listen to you about the dangers of owning unhygienic furniture.								
+466	Joint-Individual	huanyu	n/a	1: person 2 - " For general education/al purposes, or has she acquired a bar stool dipped in cholera?"								
+467	Joint-Individual	huanyu	n/a	2: person 1 - Cholera is water-borne. You’re mocking me.								
+468	Joint-Individual	huanyu	agreement	3: person 2 - " Yes, I am."								
+469	Joint-Individual	huanyu	n/a	4: person 1 - Penny has dragged a chair in off the street whose unknown proven/ance jeopardizes the health and welfare of every resident in our building.								
+470	Joint-Individual	huanyu	n/a	0: person 1 - " Mm. Well, I think more about if I’d have any regrets."								
+471	Joint-Individual	huanyu	n/a	1: person 2 - What would you regret?								
+472	Joint-Individual	huanyu	n/a	2: person 1 - " Mm, you know, that I didn’t travel more, take more risks, learn another language."								
+473	Joint-Individual	huanyu	n/a	3: person 2 - You know Klingon.								
+474	Joint-Individual	huanyu	agreement	4: person 1 - That’s true.								
+475	Joint-Individual	huanyu	n/a	0: person 1 - I may be moving out soon. I think I found a place to live.								
+476	Joint-Individual	huanyu	sympathy	1: person 2 - " Oh, I’m sorry to hear that."								
+477	Joint-Individual	huanyu	n/a	2: person 1 - Really? You kept sending me apartment listings.								
+478	Joint-Individual	huanyu	agreement	3: person 2 - " Um, well, I, yeah, you got me."								
+479	Joint-Individual	huanyu	n/a	4: person 3 - Where are you moving?								
+480	Joint-Individual	huanyu	n/a	0: Scene - Penny’s apartment.								
+481	Joint-Individual	huanyu	n/a	1: person 1 - You ready to go?								
+482	Joint-Individual	huanyu	n/a	2: person 2 - " Yep. Hey, and maybe this time you don’t try and talk sports with the guys."								
+483	Joint-Individual	huanyu	n/a	3: person 1 - Some sports bar. It’s like they never even heard of Quidditch. Do we really have to go?								
+484	Joint-Individual	huanyu	n/a	4: person 2 - " Oh, come on. Every time we’re about to hang out with my friends, you don’t want to. It’s like, It’s too loud, or the bathroom’s too dirty, or they put a chicken wing in my ear. I mean…"								
+485	Joint-Individual	huanyu	n/a	0: person 1 - " Well, you know, I’ve always been a fan of a story told by Attar of Nishapur, about a king who assembled a group of wise men to create a ring that would make him happy when he was sad. And that ring was inscribed with the phrase, this too shall pass."								
+486	Joint-Individual	huanyu	n/a	1: person 2 - " Hey, Cooper. I heard you dwunk-dialed Stephen Hawking last night? Classic."								
+487	Joint-Individual	huanyu	n/a	2: person 3 - " Get out of here, Barry."								
+488	Joint-Individual	huanyu	n/a	3: person 2 - " Whatever you say, Cwogziwwa."								
+489	Joint-Individual	huanyu	n/a	4: person 1 - Clogzilla. That’s pretty funny. I don’t think that’s gonn/a pass.								
+490	Joint-Individual	huanyu	n/a	0: person 1 - " Alright, alright, well, just, sit down, yes, sit down, now close your eyes."								
+491	Joint-Individual	huanyu	n/a	1: person 2 - Why?								
+492	Joint-Individual	huanyu	n/a	2: person 1 - Just do it.								
+493	Joint-Individual	huanyu	n/a	3: person 2 - Okay.								
+494	Joint-Individual	huanyu	n/a	4: person 1 - Now try to increase your alpha-wave activity.								
+495	Joint-Individual	huanyu	n/a	0: person 1 - " Oh, and I thought our days of pretending to be with women who don’t exist were over."								
+496	Joint-Individual	huanyu	n/a	1: person 2 - " Gentlemen, I am one step away from securing a huge guest for my convention."								
+497	Joint-Individual	huanyu	n/a	2: person 3 - Does that step include chloroform and a roll of duct tape?								
+498	Joint-Individual	huanyu	n/a	3: person 2 - " I don’t think that will be necessary for Mr. James Earl Jones. You heard me. The voice of Darth Vader, the Lion King’s dad, and FYI, the guy who says, This is CNN. Which also sounds like Darth Vader."								
+499	Joint-Individual	huanyu	n/a	4: person 4 - How are you gonn/a get James Earl Jones?								
+500	Joint-Individual	huanyu	approbation	0: person 1 - " Yes, you were very n/atural in front of the camera, and I found your suggestions extremely helpful."								
+501	Joint-Individual	huanyu	sympathy	1: person 2 - " Aw, sweetie, you just made my day."								
+502	Joint-Individual	huanyu	n/a	2: person 1 - Okay.								
+503	Joint-Individual	huanyu	n/a	3: person 2 - " Hey, my acting class is putting on a play Friday night. I could put you and Amy on the guest list."								
+504	Joint-Individual	huanyu	n/a	4: person 1 - " Oh, that sounds terrible. Why would I want to do that?"								
+505	Joint-Individual	huanyu	n/a	0: person 1 - I don’t know. Kryptonian mustard.								
+506	Joint-Individual	huanyu	n/a	1: person 2 - I think we can safely assume that all Kryptonian condiments were destroyed when the planet Krypton exploded.								
+507	Joint-Individual	huanyu	n/a	2: person 3 - " Or it turned into mustard Kryptonite, the only way to destroy a rogue Kryptonian hotdog threatening Earth."								
+508	Joint-Individual	huanyu	n/a	3: person 4 - " Raj, please, let’s stay serious here. Superman’s body is Kryptonian, therefore his sweat is Kryptonian."								
+509	Joint-Individual	huanyu	n/a	4: person 1 - " Yeah, what about Kryptonian pit stains?"								
+510	Joint-Individual	huanyu	n/a	0: person 1 - " Sorry, sorry, sorry, sorry, sorry."								
+511	Joint-Individual	huanyu	n/a	1: person 2 - " In order to live long enough to fuse my consciousness with cybernetics, I need to change my diet."								
+512	Joint-Individual	huanyu	n/a	2: person 1 - " Wait. Cybernetics is robot stuff, right?"								
+513	Joint-Individual	huanyu	n/a	3: person 2 - Correct.								
+514	Joint-Individual	huanyu	n/a	4: person 1 - So you want to turn yourself into some sort of robot?								
+515	Joint-Individual	huanyu	n/a	0: person 1 - Here.								
+516	Joint-Individual	huanyu	n/a	1: person 2 - " She’s here, the baby’s here."								
+517	Joint-Individual	huanyu	sympathy	2: person 1 - Oh!								
+518	Joint-Individual	huanyu	sympathy	3: person 3 - Congratulations.								
+519	Joint-Individual	huanyu	n/a	4: person 4 - How’s Bern/adette?								
+520	Joint-Individual	huanyu	n/a	0: Scene - " The same, shortly after, demonstrating the quantum gyroscope. "								
+521	Joint-Individual	huanyu	n/a	1: person 1 - " And because of the quantum vortices, this can run perpetually?"								
+522	Joint-Individual	huanyu	approbation	2: person 2 - " Exactly. Yeah, you have a good grasp of the physics."								
+523	Joint-Individual	huanyu	n/a	3: person 1 - " Well, I’m a scientist by training."								
+524	Joint-Individual	huanyu	n/a	4: person 3 - Really? You’re a physicist?								
+525	Joint-Individual	huanyu	n/a	0: person 1 - Sounds like your neighbour’s home.								
+526	Joint-Individual	yuchien	n/a	1: person 2 - Excuse me.								
+527	Joint-Individual	yuchien	n/a	2: person 3 - Don’t forget the mail you took accidentally on purpose so you’d have an excuse to talk to her.								
+528	Joint-Individual	yuchien	n/a	3: person 2 - " Oh, right, right right right right."								
+529	Joint-Individual	yuchien	approbation	4: person 1 - " Stealing sn/ail mail, very old school, I like it. "								
+530	Joint-Individual	yuchien	n/a	0: person 1 - Yeah.								
+531	Joint-Individual	yuchien	n/a	1: person 2 - I don’t. I have a hole in my belly button that may or may not have been a piercing.								
+532	Joint-Individual	yuchien	approbation	2: person 1 - That’s cool.								
+533	Joint-Individual	yuchien	n/a	3: person 2 - " It’s a piercing. So, uh, how many tattoos?"								
+534	Joint-Individual	yuchien	n/a	4: person 1 - " One on my shoulder, one not on my shoulder and one really not on my shoulder."								
+535	Joint-Individual	yuchien	n/a	0: person 1 - Then what were you doing there?								
+536	Joint-Individual	yuchien	n/a	1: person 2 - I lied. I love them. I only said that so you’d go out with me.								
+537	Joint-Individual	yuchien	n/a	2: person 1 - " Oh, you don’t want to do that. I’m kind of broken."								
+538	Joint-Individual	yuchien	n/a	3: person 2 - " That’s great. I’m broken, too."								
+539	Joint-Individual	yuchien	n/a	4: person 1 - " Oh, no, you’re not."								
+540	Joint-Individual	yuchien	n/a	0: person 1 - " Yeah. I was at a science-fiction convention, and I saw a woman dressed as your half-ape character."								
+541	Joint-Individual	yuchien	n/a	1: person 2 - " Oh, if she was with an Indian guy dressed like a ban/an/a, that was just my friends, Howard and Raj."								
+542	Joint-Individual	yuchien	n/a	2: person 1 - " All right, it’s time for a very special guest caller, a friend of mine, who you probably know as the director of such movies as Clerks, or from podcasts and books where he often reminds you that he’s the guy who directed Clerks. Hello, Kevin Smith."								
+543	Joint-Individual	yuchien	n/a	3: person 3 - " Hey, man, yo, is everything okay, Wil? ‘Cause it’s been, like, two minutes and you haven’t even brought up Stand By Me."								
+544	Joint-Individual	yuchien	sympathy	4: person 4 - " Hey, Kevin. It’s really exciting to talk to you."								
+545	Joint-Individual	yuchien	n/a	4: person 1 - Be right back.								
+546	Joint-Individual	yuchien	n/a	0: person 1 - I was hoping she might listen to you about the dangers of owning unhygienic furniture.								
+547	Joint-Individual	yuchien	n/a	1: person 2 - " For general education/al purposes, or has she acquired a bar stool dipped in cholera?"								
+548	Joint-Individual	yuchien	n/a	2: person 1 - Cholera is water-borne. You’re mocking me.								
+549	Joint-Individual	yuchien	n/a	3: person 2 - " Yes, I am."								
+550	Joint-Individual	yuchien	n/a	4: person 1 - Penny has dragged a chair in off the street whose unknown proven/ance jeopardizes the health and welfare of every resident in our building.								
+551	Joint-Individual	yuchien	n/a	0: person 1 - " Mm. Well, I think more about if I’d have any regrets."								
+552	Joint-Individual	yuchien	n/a	1: person 2 - What would you regret?								
+553	Joint-Individual	yuchien	n/a	2: person 1 - " Mm, you know, that I didn’t travel more, take more risks, learn another language."								
+554	Joint-Individual	yuchien	n/a	3: person 2 - You know Klingon.								
+555	Joint-Individual	yuchien	agreement	4: person 1 - That’s true.								
+556	Joint-Individual	yuchien	n/a	0: person 1 - I may be moving out soon. I think I found a place to live.								
+557	Joint-Individual	yuchien	sympathy	1: person 2 - " Oh, I’m sorry to hear that."								
+558	Joint-Individual	yuchien	n/a	2: person 1 - Really? You kept sending me apartment listings.								
+559	Joint-Individual	yuchien	n/a	3: person 2 - " Um, well, I, yeah, you got me."								
+560	Joint-Individual	yuchien	n/a	4: person 3 - Where are you moving?								
+561	Joint-Individual	yuchien	n/a	0: Scene - Penny’s apartment.								
+562	Joint-Individual	yuchien	tact	1: person 1 - You ready to go?								
+563	Joint-Individual	yuchien	n/a	2: person 2 - " Yep. Hey, and maybe this time you don’t try and talk sports with the guys."								
+564	Joint-Individual	yuchien	n/a	3: person 1 - Some sports bar. It’s like they never even heard of Quidditch. Do we really have to go?								
+565	Joint-Individual	yuchien	n/a	4: person 2 - " Oh, come on. Every time we’re about to hang out with my friends, you don’t want to. It’s like, It’s too loud, or the bathroom’s too dirty, or they put a chicken wing in my ear. I mean…"								
+566	Joint-Individual	yuchien	n/a	0: person 1 - " Well, you know, I’ve always been a fan of a story told by Attar of Nishapur, about a king who assembled a group of wise men to create a ring that would make him happy when he was sad. And that ring was inscribed with the phrase, this too shall pass."								
+567	Joint-Individual	yuchien	n/a	1: person 2 - " Hey, Cooper. I heard you dwunk-dialed Stephen Hawking last night? Classic."								
+568	Joint-Individual	yuchien	n/a	2: person 3 - " Get out of here, Barry."								
+569	Joint-Individual	yuchien	n/a	3: person 2 - " Whatever you say, Cwogziwwa."								
+570	Joint-Individual	yuchien	approbation	4: person 1 - Clogzilla. That’s pretty funny. I don’t think that’s gonn/a pass.								
+571	Joint-Individual	yuchien	n/a	0: person 1 - " Alright, alright, well, just, sit down, yes, sit down, now close your eyes."								
+572	Joint-Individual	yuchien	n/a	1: person 2 - Why?								
+573	Joint-Individual	yuchien	n/a	2: person 1 - Just do it.								
+574	Joint-Individual	yuchien	n/a	3: person 2 - Okay.								
+575	Joint-Individual	yuchien	n/a	4: person 1 - Now try to increase your alpha-wave activity.								
+576	Joint-Individual	yuchien	n/a	0: person 1 - " Oh, and I thought our days of pretending to be with women who don’t exist were over."								
+577	Joint-Individual	yuchien	n/a	1: person 2 - " Gentlemen, I am one step away from securing a huge guest for my convention."								
+578	Joint-Individual	yuchien	n/a	2: person 3 - Does that step include chloroform and a roll of duct tape?								
+579	Joint-Individual	yuchien	n/a	3: person 2 - " I don’t think that will be necessary for Mr. James Earl Jones. You heard me. The voice of Darth Vader, the Lion King’s dad, and FYI, the guy who says, This is CNN. Which also sounds like Darth Vader."								
+580	Joint-Individual	yuchien	n/a	4: person 4 - How are you gonn/a get James Earl Jones?								
+581	Joint-Individual	yuchien	approbation	0: person 1 - " Yes, you were very n/atural in front of the camera, and I found your suggestions extremely helpful."								
+582	Joint-Individual	yuchien	sympathy	1: person 2 - " Aw, sweetie, you just made my day."								
+583	Joint-Individual	yuchien	n/a	2: person 1 - Okay.								
+584	Joint-Individual	yuchien	n/a	3: person 2 - " Hey, my acting class is putting on a play Friday night. I could put you and Amy on the guest list."								
+585	Joint-Individual	yuchien	n/a	4: person 1 - " Oh, that sounds terrible. Why would I want to do that?"								
+586	Joint-Individual	yuchien	n/a	0: person 1 - I don’t know. Kryptonian mustard.								
+587	Joint-Individual	yuchien	n/a	1: person 2 - I think we can safely assume that all Kryptonian condiments were destroyed when the planet Krypton exploded.								
+588	Joint-Individual	yuchien	tact	2: person 3 - " Or it turned into mustard Kryptonite, the only way to destroy a rogue Kryptonian hotdog threatening Earth."								
+589	Joint-Individual	yuchien	n/a	3: person 4 - " Raj, please, let’s stay serious here. Superman’s body is Kryptonian, therefore his sweat is Kryptonian."								
+590	Joint-Individual	yuchien	n/a	4: person 1 - " Yeah, what about Kryptonian pit stains?"								
+591	Joint-Individual	yuchien	tact	0: person 1 - " Sorry, sorry, sorry, sorry, sorry."								
+592	Joint-Individual	yuchien	n/a	1: person 2 - " In order to live long enough to fuse my consciousness with cybernetics, I need to change my diet."								
+593	Joint-Individual	yuchien	n/a	2: person 1 - " Wait. Cybernetics is robot stuff, right?"								
+594	Joint-Individual	yuchien	n/a	3: person 2 - Correct.								
+595	Joint-Individual	yuchien	n/a	4: person 1 - So you want to turn yourself into some sort of robot?								
+596	Joint-Individual	yuchien	n/a	0: person 1 - Here.								
+597	Joint-Individual	yuchien	n/a	1: person 2 - " She’s here, the baby’s here."								
+598	Joint-Individual	yuchien	n/a	2: person 1 - Oh!								
+599	Joint-Individual	yuchien	sympathy	3: person 3 - Congratulations.								
+600	Joint-Individual	yuchien	n/a	4: person 4 - How’s Bern/adette?								
+601	Joint-Individual	yuchien	n/a	0: Scene - " The same, shortly after, demonstrating the quantum gyroscope. "								
+602	Joint-Individual	yuchien	n/a	1: person 1 - " And because of the quantum vortices, this can run perpetually?"								
+603	Joint-Individual	yuchien	approbation	2: person 2 - " Exactly. Yeah, you have a good grasp of the physics."								
+604	Joint-Individual	yuchien	n/a	3: person 1 - " Well, I’m a scientist by training."								
+605	Joint-Individual	yuchien	n/a	4: person 3 - Really? You’re a physicist?								
+606	Joint-Individual	yuchien	n/a	0: person 1 - Sounds like your neighbour’s home.								
+607	Joint-Individual	yuchien	n/a	1: person 2 - Excuse me.								
+608	Joint-Individual	yuchien	n/a	2: person 3 - Don’t forget the mail you took accidentally on purpose so you’d have an excuse to talk to her.								
+609	Joint-Individual	yuchien	n/a	3: person 2 - " Oh, right, right right right right."								
+610	Joint-Individual	yuchien	n/a	4: person 1 - " Stealing sn/ail mail, very old school, I like it. "								
+611	Joint-Individual	yuchien	n/a	0: person 1 - Yeah.								
+612	Joint-Individual	yuchien	n/a	1: person 2 - I don’t. I have a hole in my belly button that may or may not have been a piercing.								
+613	Joint-Individual	yuchien	approbation	2: person 1 - That’s cool.								
+614	Joint-Individual	yuchien	n/a	3: person 2 - " It’s a piercing. So, uh, how many tattoos?"								
+615	Joint-Individual	yuchien	n/a	4: person 1 - " One on my shoulder, one not on my shoulder and one really not on my shoulder."								
+616	Joint-Individual	yuchien	n/a	0: person 1 - Then what were you doing there?								
+617	Joint-Individual	yuchien	n/a	1: person 2 - I lied. I love them. I only said that so you’d go out with me.								
+618	Joint-Individual	yuchien	tact	2: person 1 - " Oh, you don’t want to do that. I’m kind of broken."								
+619	Joint-Individual	yuchien	agreement	3: person 2 - " That’s great. I’m broken, too."								
+620	Joint-Individual	yuchien	n/a	4: person 1 - " Oh, no, you’re not."								
+621	Joint-Individual	yuchien	n/a	0: person 1 - " Yeah. I was at a science-fiction convention, and I saw a woman dressed as your half-ape character."								
+622	Joint-Individual	yuchien	n/a	1: person 2 - " Oh, if she was with an Indian guy dressed like a ban/an/a, that was just my friends, Howard and Raj."								
+623	Joint-Individual	yuchien	n/a	2: person 1 - " All right, it’s time for a very special guest caller, a friend of mine, who you probably know as the director of such movies as Clerks, or from podcasts and books where he often reminds you that he’s the guy who directed Clerks. Hello, Kevin Smith."								
+624	Joint-Individual	yuchien	n/a	3: person 3 - " Hey, man, yo, is everything okay, Wil? ‘Cause it’s been, like, two minutes and you haven’t even brought up Stand By Me."								
+625	Joint-Individual	yuchien	approbation	4: person 4 - " Hey, Kevin. It’s really exciting to talk to you."								
+626	additional	joel	tact	0: person 1 - "I’m sorry, you tried to build your own cat scanner?"								
+627	additional	joel	n/a	1: person 2 - "No, I didn’t try, I succeeded. In fact, I was briefly able to see the inside of my sister’s guinea pig, Snowball, before he caught fire. It led to an interesting expression in our house, not a snowball’s chance in a cat scanner."								
+628	additional	joel	n/a	2: person 3 - "Uh, Sheldon?"								
+629	additional	joel	Tact	3: person 2 - "Excuse me. When I come back, just for fun, the subject will be alternative history. Specifically, how would the civil war have gone differently if Lincoln had been a robot sent from the future? Look at that, there’s even pasta left over."								
+630	additional	joel	n/a	4: person 3 - "Do you understand that this was supposed to be a date?"								
+631	additional	joel	n/a	0: person 1 - "Oh, bite me!"								
+632	additional	joel	n/a	1: person 2 - "Sisters?"								
+633	additional	joel	Approbation	3: person 3 - "Excuse me, Dr. Cooper, I’m Kathy O’Brien. I just finished reading your paper reconciling the black hole information paradox with your theory of string-network condensates, and it just took my breath away."								
+634	additional	joel	n/a	4: person 4 - "Maybe when I publish it, I’ll include an inhaler."								
+635	additional	joel	n/a	0: person 1 - "Are you sure? ‘Cause you didn’t know we were married until this morning."								
+636	additional	joel	n/a	1: person 2 - "Okay, look, Zack, come on. You know neither of us thought this was real. I mean, we were married by an Elvis impersonator."								
+637	additional	joel	n/a	2: person 1 - "Of course it was an impersonator. We could never afford a real Elvis."								
+638	additional	joel	agreement	3: person 3 - "You married him instead of me? Good call. Sign the papers."								
+639	additional	joel	Tact	4: person 2 - "Hang on. You know what? You have been a jerk about this all day. You always do this, whenever I mess up, you’re right there to make me feel even worse about it."								
+640	additional	joel	n/a	0: person 1 - "What are you all staring at? Didn’t you ever see a man try to get a meeting with Stephen Hawking before?"								
+641	additional	joel	n/a	2: person 2 - "Hey."								
+642	additional	joel	n/a	3: person 1 - "Hello."								
+643	additional	joel	n/a	4: person 2 - "It’s not Saturday night. Why are you doing your laundry?"								
+644	additional	joel	Approbation	0: person 1 - "Oh, well done. I have a feeling you’re going to fit in just fine, Dr. Koothrappali."								
+645	additional	joel	n/a	1: person 2 - "Thank you, sir."								
+646	additional	joel	n/a	2: person 3 - "I’m sorry. Am I late?"								
+647	additional	joel	Tact	3: person 1 - "No, no, no. Right on time. Dr. Koothrappali, may I present Dr. Millstone from MIT. She’ll be heading up our data analysis team."								
+648	additional	joel	Approbation	4: person 4 - "It’s nice to meet you, Dr. Koothrappali. I read your paper on Kuiper belt object size distribution. I really enjoyed it. How did you correct for the selection bias?"								
+649	additional	joel	n/a	0: person 1 - "I have no immediate plans."								
+650	additional	joel	Tact	1: person 2 - "If that changes, let me know. And finally, area rugs, pro or con?"								
+651	additional	joel	n/a	2: person 1 - "Pro?"								
+652	additional	joel	n/a	3: person 2 - "Alicia?"								
+653	additional	joel	n/a	4: person 1 - "Yes?"								
+654	additional	joel	Approbation	0: person 1 - "Oh, that’s nice. But relax, sometimes change is good. Uh, you were worried about Zachary Quinto being the new Spock, but you wound up liking him."								
+655	additional	joel	n/a	1: person 2 - "Oh, please. Every time the topic of change comes up, you throw Zachary Quinto in my face. I’m upset the mailman has a new haircut, Zachary Quinto. I’m upset that daylight saving time started, Zachary Quinto. I’m upset daylight saving time ended, Zachary Quinto. I’m saying this for the last time, Zachary Quinto was a weird, wonderful, unrepeatable event. So stop using him against me."								
+656	additional	joel	n/a	2: person 3 - "Okay, here we go. You find yourselves in an overgrown old forest. Before you is a giant oak tree with a face on it that looks a lot like Nicolas Cage. He says, Travel with caution. These woods are home to the bones of many a fallen hero."								
+657	additional	joel	Approbation	3: person 1 - "See, Howard’s just as good a dungeon master as I am."								
+658	additional	joel	n/a	4: person 2 - "As good? You just got pantsed in the schoolyard, four-eyes."								
+659	additional	joel	n/a	0: person 1 - "Because… uh, Friday, we are attending a symposium on molecular positronium."								
+660	additional	joel	n/a	1: person 2 - "I think that’s a week from Tuesday at six."								
+661	additional	joel	n/a	2: person 1 - "No, it’s this Friday, at eight."								
+662	additional	joel	sympathy	3: person 3 - "Oh, too bad, well, I got to get to rehearsal, see you guys."								
+663	additional	joel	n/a	4: person 1 - "See you."								
+664	additional	joel	Approbation	0: person 1 - "Sheldon, that’s incredible."								
+665	additional	joel	n/a	1: person 2 - "Yeah, I know. They called it the greatest thing since the Communist party. Although I’m pretty sure that the Communist party made them say that. I like China. See, they know how to keep people in line."								
+666	additional	joel	n/a	2: person 3 - "So, what happens next?"								
+667	additional	joel	n/a	3: person 2 - "Oh, more testing, more success, more fame. Yeah, but don’t worry, I will remain the same down-to-earth humble Joe I’ve always been."								
+668	additional	joel	Agreement	4: person 1 - "Good to know."								
+669	additional	joel	n/a	0: person 1 - "Hello."								
+670	additional	joel	Tact	1: person 2 - "How come you’re up so late?"								
+671	additional	joel	n/a	2: person 1 - "I posted the last episode of Fun with Flags hours ago, and not a single person cared enough to comment. All that effort for nothing."								
+672	additional	joel	Sympathy	3: person 2 - "Mm. I know how you feel. I spent the day throwing out a man’s entire career, and all that’s left is an old bottle of champagne and a naked lady pen that Raj took when he thought no one was looking."								
+673	additional	joel	n/a	4: person 1 - "It’s not the same thing. I don’t think you know how I feel at all."								
+674	additional	joel	n/a	0: person 1 - "What?"								
+675	additional	joel	n/a	1: person 2 - "I’d like to SpongeBob her SquarePants."								
+676	additional	joel	n/a	2: person 3 - "Now we are done."								
+677	additional	joel	n/a	3: person 1 - "Hey."								
+678	additional	joel	n/a	4: person 4 - "Oh, hi, Leonard. What’s up?"								
+679	additional	joel	Approbation	1: person 1 - "Nice shot."								
+680	additional	joel	n/a	2: person 2 - "Thank you. My father taught me archery as a child. It’s odd how the activity brings back the smell of Kmart bourbon."								
+681	additional	joel	n/a	3: person 1 - "Perfect."								
+682	additional	joel	Agreement	4: person 2 - "I know. What an elf I would have made. Whoo, what do you think you’re doing?"								
+683	additional	joel	n/a	0: person 1 - "Then you made her cry and leave."								
+684	additional	joel	n/a	1: person 2 - "Okay, you guys are overreacting. Raj is gonna appreciate how I had his back."								
+685	additional	joel	n/a	3: person 3 - "What is wrong with you, Penny? You ruined any chance I had of getting back with Lucy. Now she knows I’m a desperate mess instead of just being pretty sure. It’s Lucy. She wants to meet for coffee. I love you, Penny."								
+686	additional	joel	Approbation	0: person 1 - "Well, thank you for a really cool evening."								
+687	additional	joel	n/a	1: person 2 - "Thank you for hiding my Star Wars socks at the emergency room. Is it a good time to evaluate the beta test and see where we stand?"								
+688	additional	joel	Approbation	2: person 1 - "Things are looking good."								
+689	additional	joel	n/a	3: person 2 - "So, are we still taking things slow? Because a gunshot wound today, last week, I slammed my thumb in the kitchen drawer. We don’t know how much time I have."								
+690	additional	joel	n/a	4: person 1 - "Good night, you."								
+691	additional	joel	n/a	0: person 1 - "At the bottom. I must say, I’m relieved you’re not making more of a scene out of this."								
+692	additional	joel	n/a	1: person 2 - "Oh, I’ve already moved on. Besides, this breakup has nothing to do with me."								
+693	additional	joel	n/a	2: person 1 - "It doesn’t?"								
+694	additional	joel	n/a	3: person 2 - "Of course not. This is just Leonard trying to take the focus off that dreadful table by sowing discord in our relationship. He’s manipulating you like he always does."								
+695	additional	joel	Tact	4: person 1 - "Wait, wait, now, hang on. You think he manipulates me?"								
+696	additional	joel	n/a	0: person 1 - "Uh, maybe it was more of a circle?"								
+697	additional	joel	n/a	1: person 2 - "It’s weird that guy thought you were a couple."								
+698	additional	joel	Agreement	2: person 1 - "Yes."								
+699	additional	joel	Agreement	3: person 3 - "Yes."								
+700	additional	joel	Agreement	4: person 1 - "See? Easy. And look at all this cargo space. Now we’ll get the crib out and you can take it for a test-drive. I’m telling you, this van is gonna be… uuh-uuh, uuh-uuh."								
+701	additional	joel	Tact	0: person 1 - "Well, you’re about to be in an even better one. I didn’t want to say anything until I knew for sure, but I’ve been re-running the tests on your element in my lab and I disproved it. Your element does not exist."								
+702	additional	joel	n/a	1: person 2 - "Yeah, but what about the Chinese research team? They found it."								
+703	additional	joel	n/a	2: person 1 - "Yeah, it turns out someone added simulated signals to the data files. They faked the results."								
+704	additional	joel	n/a	3: person 2 - "Really?"								
+705	additional	joel	n/a	4: person 1 - "Yes. Do you know what that means? That means all of this attention that you hate goes away."								
+706	additional	joel	n/a	0: person 1 - "Check."								
+707	additional	joel	n/a	1: person 2 - "He calls you Froot Loops because of your very gay haircut?"								
+708	additional	joel	n/a	2: person 1 - "No, it’s ’cause I live with my mom and she makes me Froot Loops."								
+709	additional	joel	n/a	3: person 2 - "Go with gay story, people are more accepting of that."								
+710	additional	joel	n/a	4: person 3 - "Actually, Froot Loops just got married to a girl."								
+711	additional	joel	Agreement	0: person 1 - "Of course."								
+712	additional	joel	n/a	1: person 2 - "As my relationships with Penny and Amy are currently strained, I’m turning to you for female comfort and encouragement."								
+713	additional	joel	n/a	2: person 1 - "Aw. I’m honoured."								
+714	additional	joel	n/a	3: person 2 - "I tried reaching out to my mother, but she was in Bible study. Leonard’s mother is on a book tour. My Mee-Maw was taking a nap, and after a while Siri started repeating her answers."								
+715	additional	joel	n/a	4: person 1 - "So, I’m your seventh choice."								
+716	additional	joel	n/a	0: person 1 - "Okay. I need to speak to my boyfriend in private, like, right now."								
+717	additional	joel	Tact	1: person 2 - "There’s a car with a glass roof. Want to go look at the stars?"								
+718	additional	joel	n/a	2: person 3 - "Oh, that sounds so romantic."								
+719	additional	joel	n/a	3: person 1 - "Oh, give it a rest."								
+720	additional	joel	n/a	4: person 3 - "Let’s go."								
+721	additional	joel	n/a	0: person 1 - "And to clarify?"								
+722	additional	joel	n/a	1: person 2 - "The exercise, Sheldon. Shouldn’t you be getting ready for work?"								
+723	additional	joel	Tact	2: person 1 - "I’m not going. Would you like to know why?"								
+724	additional	joel	n/a	3: person 2 - "Uh, you’re sad about not getting anything done last night, so you’re gonna sit around and pout about it?"								
+725	additional	joel	n/a	4: person 1 - "Boy, I’m not nearly as mysterious as I think I am."								
+801	additional	huanyu	N/A	0: person 1 - " No, I suppose not."								
+802	additional	huanyu	AGREEMENT	1: person 2 -  Good. Keep thinking that.								
+803	additional	huanyu	N/A	2: person 1 -  Wheaton!								
+804	additional	huanyu	N/A	3: Scene -  The comic book store.								
+805	additional	huanyu	N/A	4: person 3 - " Mm-hmm, mm-hmm, yeah, I’m telling you the Match.com chicks are much looser than on eHarmony. You know, I, I gotta call you back. I won a bet, and it’s time to collect."								
+806	additional	huanyu	N/A	0: person 1 -  Hey. Still a loser or did you turn things around while you were gone?								
+807	additional	huanyu	SYMPATHY	1: person 2 - " You know, Raj, honey, you’re being too hard on yourself. When I first met you, you couldn’t even talk to women. I mean, you couldn’t even talk if one was in the room."								
+808	additional	huanyu	N/A	2: person 3 - " Oh, great, now I can say things like I can’t believe you’re breaking up with me, why are you breaking up with me? Yes, I’ll still help you move."								
+809	additional	huanyu	N/A	3: person 2 -  Anyone else want to try?								
+810	additional	huanyu	SYMPATHY	4: person 1 - " Uh, yeah, I got something. Raj, not everybody could be a dog owner. Oh, what? Did your doggie break up with you too?"								
+811	additional	huanyu	N/A	0: person 1 - " Trust me, this is the right thing."								
+812	additional	huanyu	AGREEMENT	1: person 2 - " I know. And it’s not like we’re abandoning him. Plus, we can FaceTime him whenever we want, you know, once iPhones are invented in his universe."								
+813	additional	huanyu	N/A	2: Scene -  A bar.								
+814	additional	huanyu	N/A	3: person 3 -  I can’t believe Sheldon asked you to be his roommate.								
+815	additional	huanyu	N/A	4: person 4 -  I can’t believe he ran my credit.								
+816	additional	huanyu	N/A	0: person 1 - " Hang on. Hang on. Uh-huh. Okay, thank you. Howard was on his scooter, and got hit by a truck. He’s in critical condition."								
+817	additional	huanyu	SYMPATHY	1: person 2 - " Oh, no!"								
+818	additional	huanyu	N/A	2: person 3 -  Did you hear? Isn’t it terrible?								
+819	additional	huanyu	N/A	3: person 1 -  Have you seen him?								
+820	additional	huanyu	N/A	4: person 3 -  They wouldn’t let me in. Oh my Howie.								
+821	additional	huanyu	APPROBATION	0: person 1 - " Ever since I met Penny, I’ve been envious of her looks."								
+822	additional	huanyu	N/A	1: person 2 - " Aw, thank you."								
+823	additional	huanyu	N/A	2: person 1 -  That’s why I was so happy when you cut your hair off.								
+824	additional	huanyu	N/A	3: person 2 -  What?								
+825	additional	huanyu	N/A	4: person 1 - " You know what I mean. You were still hot, but more like a why’d that hot girl cut off all her hair, hot."								
+826	additional	huanyu	TACT	0: person 1 - " Alright, why don’t we do it your way then? We’ll arrange for this girl to move in across the hall from Dennis so he can pathetically moon over her for months on end."								
+827	additional	huanyu	AGREEMENT	1: person 2 - " Okay, that was uncalled for."								
+828	additional	huanyu	N/A	2: person 1 - " You started it, dude. "								
+829	additional	huanyu	TACT	3: person 3 -  Could I have everyone’s attention please. What a wonderful occasion this is. And how fortunate that it should happen to fall on take your daughter to work day. We’re here to welcome Mr Dennis Kim to our little family.								
+830	additional	huanyu	N/A	4: person 4 -  Welcome Dennis Kim.								
+831	additional	huanyu	N/A	0: person 1 -  Amy’s got some news.								
+832	additional	huanyu	N/A	1: person 2 - " Yeah, um, Raj is moving out."								
+833	additional	huanyu	N/A	2: person 3 - " Oh, no. When?"								
+834	additional	huanyu	N/A	3: Scene -  Howard and Bernadette’s van.								
+835	additional	huanyu	SYMPATHY	4: person 4 -  You doing okay?								
+836	additional	huanyu	N/A	0: person 1 -  I didn’t say fun fact. I’m not a monster.								
+837	additional	huanyu	SYMPATHY	1: person 2 -  He’s gonna be okay.								
+838	additional	huanyu	N/A	2: person 1 -  Now it’s a fun fact.								
+839	additional	huanyu	N/A	3: person 3 - " Boy, stuff like this really puts things in perspective."								
+840	additional	huanyu	N/A	4: person 2 -  Why are you dressed like that?								
+841	additional	huanyu	N/A	0: person 1 -  Sing soft kitty.								
+842	additional	huanyu	N/A	1: person 2 -  That’s only for when you’re sick.								
+843	additional	huanyu	N/A	2: person 1 -  Homesick is a type of being sick.								
+844	additional	huanyu	N/A	3: person 2 - " Come on, do I really have to?"								
+845	additional	huanyu	TACT	4: person 1 -  I suppose we can stay up and talk.								
+846	additional	huanyu	N/A	0: person 1 - " Hey, Sheldon, what do you say we go outside and throw around the old pigskin?"								
+847	additional	huanyu	N/A	1: person 2 -  This is a Jewish house. I don’t think they have pigskin.								
+848	additional	huanyu	N/A	2: person 3 -  Did someone say pigskin?								
+849	additional	huanyu	N/A	3: person 4 - " Hey, I’m sorry about today. And I promise, next time I get married, it won’t be a joke. It’ll be for love. Or money."								
+850	additional	huanyu	SYMPATHY	4: person 5 - " I’m sorry, too."								
+851	additional	huanyu	N/A	0: person 1 -  Bye.								
+852	additional	huanyu	N/A	1: person 2 -  What a douche.								
+853	additional	huanyu	N/A	2: Scene -  The apartment.								
+854	additional	huanyu	APPROBATION	3: person 3 - " Wow, Sheldon, I cannot believe you made up your own game."								
+855	additional	huanyu	N/A	4: person 4 - " Oh, Research Lab is more than a game. It’s like the slogan says, the physics is theoretical, but the fun is real."								
+856	additional	huanyu	N/A	0: person 1 - " What do you want, Sheldon?"								
+857	additional	huanyu	N/A	1: person 2 -  Maybe this isn’t a good time.								
+858	additional	huanyu	N/A	2: person 1 -  Tell me why you woke me up or I swear to God I will kill you.								
+859	additional	huanyu	TACT	3: person 2 -  Do you really think death threats are an appropriate way to begin this conversation? Sometimes your lack of social skills astonishes me.								
+860	additional	huanyu	N/A	4: person 1 -  What do you want?								
+861	additional	huanyu	N/A	0: person 1 -  Really? Sheldon not being here is the main reason I’m in this room.								
+862	additional	huanyu	AGREEMENT	1: person 2 -  It’s true. None of you would know me. You wouldn’t know Bernadette. You wouldn’t be dating Penny.								
+863	additional	huanyu	N/A	2: person 3 -  You don’t know that. I’ve been going to the Cheesecake Factory for years. I could have picked her up. (General laughter)								
+864	additional	huanyu	N/A	3: person 4 - " Oh, you weren’t joking."								
+865	additional	huanyu	AGREEMENT	4: person 3 -  No.								
+866	additional	huanyu	N/A	0: person 1 -  Nice flowers.								
+867	additional	huanyu	N/A	1: person 2 - " Thank you. They’re for a girl. Uh, I’m being implacable and relentless."								
+868	additional	huanyu	APPROBATION	2: person 1 -  Isn’t she lucky?								
+869	additional	huanyu	N/A	3: person 2 -  She keeps sending me mixed signals. But I think we both want the same thing.								
+870	additional	huanyu	N/A	4: person 1 -  What’s that?								
+871	additional	huanyu	N/A	0: person 1 - " Oh, hey. I was actually just about to close up."								
+872	additional	huanyu	TACT	1: person 2 - " Oh, I’m sorry. I’ll leave."								
+873	additional	huanyu	N/A	2: person 1 - " No, no. It’s okay. Hang out. "								
+874	additional	huanyu	TACT	3: person 2 -  You sure?								
+875	additional	huanyu	N/A	4: person 1 - " Yeah, you’re my first customer today."								
+876	additional	huanyu	N/A	0: person 1 -  We just wanted to hang out with you and maybe learn a little about your life.								
+877	additional	huanyu	N/A	1: person 2 - " Well, there, there really isn’t too much to tell. After the TV show was, was cancelled, nobody in the scientific world would, uh, would take me seriously. So I was forced to do these, uh, children’s parties to, to make a living."								
+878	additional	huanyu	SYMPATHY	2: person 1 - " That’s too bad. But still, working with kids, it must be rewarding."								
+879	additional	huanyu	N/A	3: person 2 - " You, you get bit a lot. Let me see if, if I have this straight. You, you two are, are physicists, and you, and you want me to do a children’s science show?"								
+880	additional	huanyu	N/A	4: person 3 - " Yes. And if there’s time, take 12 pictures with us in seasonal clothing."								
+881	additional	huanyu	N/A	0: person 1 - Hey, guys.								
+882	additional	huanyu	APPROBATION	1: person 2 - You made it.								
+883	additional	huanyu	APPROBATION	2: person 3 - Did you see that? He just cut the line.								
+884	additional	huanyu	N/A	3: persion4 - He’s just joining his friends; it’s fine.								
+885	additional	huanyu	N/A	 4: person 3 - No, it’s not fine. It is a breach of line etiquette. 								
+886	additional	huanyu	N/A	0: person 1 - And Raj.								
+887	additional	huanyu	AGREEMENT	1: person 2 - Alright, and Raj. 								
+888	additional	huanyu	N/A	2: person 1 - And me. 								
+889	additional	huanyu	N/A	3: person 2 - You?								
+890	additional	huanyu	N/A	4: person 1 - Violation of the roommate agreement, overnight guest notification clause.								
+891	additional	huanyu	N/A	0: person 1 - Wait a minute. Leonard made you aware of that? 								
+892	additional	huanyu	N/A	1: person 2 - We all make mistakes, let’s move on. 								
+893	additional	huanyu	TACT	2: person 3 - " Excuse me, but I think you’re missing a big opportunity here. "								
+894	additional	huanyu	N/A	3: person 4 - How so?								
+895	additional	huanyu	N/A	4: person 3 - Everybody knows genetic diversity produces the strongest offspring. Why not put a little mocha in the family latte.								
+896	additional	huanyu	N/A	0: person 1 - You and I could still go and have a nice weekend.								
+897	additional	huanyu	AGREEMENT	1: person 2 - Sure.								
+898	additional	huanyu	N/A	2: person 3 - " Come on, Sheldon, let’s go with them."								
+899	additional	huanyu	TACT	3: person 4 - I hardly think so. You be sure and say hello to all the mosquitoes, bees, bears, snakes, possums, poison oak, oh, and last, but not least, teenagers with guitars.								
+900	additional	huanyu	N/A	4: person 2 - I’ll see if it’s available.								 
+901	additional	yuchien	n/a	0: person 1 - " Yeah, well, no, not to them. To me. Time traveling mailbox. The only time that traveled was an hour and half of my life down the toilet."								
+902	additional	yuchien	agreement	1: person 2 - Fine. Then we'll just stay here and do it.								
+903	additional	yuchien	n/a	2: person 1 - " Well, you didn't suggest a beach house."								
+904	additional	yuchien	n/a	3: person 2 - You would go to a beach house?								
+905	additional	yuchien	n/a	4: person 1 - " Well, good Lord, no, have you seen Jaws?"								
+906	additional	yuchien	tact	0: person 1 - Maybe I'll be better off with Nancy.								
+907	additional	yuchien	n/a	1: person 2 - " So, what do you think? I mean, this could be a business, right?"								
+908	additional	yuchien	n/a	2: person 1 - How many of these can you make a day?								
+909	additional	yuchien	n/a	3: person 2 - About twenty.								
+910	additional	yuchien	n/a	4: person 1 - And how much profit do you make per Penny Blossom?								
+911	additional	yuchien	n/a	0: person 1 - " Oh, what are we gonna do?"								
+912	additional	yuchien	n/a	1: person 2 - " We? No, no, no, you had your chance to be we for, like, a year and a half now. Right now, you are you, and you are screwed."								
+913	additional	yuchien	n/a	2: person 1 - Why do we have to tell him I did it?								
+914	additional	yuchien	n/a	3: person 2 - " Well, we're not gonna tell him I did it."								
+915	additional	yuchien	agreement	4: person 1 - " Okay, okay, how about this? We tell him somebody broke in ."								
+916	additional	yuchien	n/a	0: person 1 - " Not really. This guy shows up out of the blue, and now I have a brother? My father has another family?"								
+917	additional	yuchien	n/a	1: person 2 - I get it. What do you want to do?								
+918	additional	yuchien	n/a	2: person 1 - " I don't know. I, I  just like him to go away. I can't deal with this."								
+919	additional	yuchien	Sympathy	3: person 2 - " All right, I got your back."								
+920	additional	yuchien	n/a	4: person 1 - " Thank you. Come on. And I like to point out, th is wall just provided a lot of privacy."								
+921	additional	yuchien	Sympathy	0: person 1 - I'll give you a hand.								
+922	additional	yuchien	n/a	1: person 2 - " Oh, stop it! Bye guys. "								
+923	additional	yuchien	n/a	2: person 3 - My turn on the time machine.								
+924	additional	yuchien	n/a	3: Scene - " A jungle. As the camera moves, the time machine becomes visible. Sheldon is sitting in it The disk stops spinning, and he looks around. The dials read APR 28 802,701. "								
+925	additional	yuchien	n/a	4: person 4 - " It worked. It really worked. They said I was mad, but it worked. (Large hairy creatures with glowing eyes emerge from the forest and walk towards him menacingly.) Oh no, not Morlocks! Not flesh-eating Morlocks! He-e-e-e-e-e-e-elp! (With a yelp, he wakes up in the time machine in the living room.) "								
+926	additional	yuchien	n/a	0: person 1 - " Sheldon, what do you think?"								
+927	additional	yuchien	n/a	1: person 2 - Very well. I'm on board.								
+928	additional	yuchien	n/a	2: person 1 - Seriously?								
+929	additional	yuchien	n/a	3: person 2 - Yes. I accept this five-week mission to share a living space w ith my girlfriend.								
+930	additional	yuchien	approbation	4: person 1 - Oh. This is so exciting.								
+931	additional	yuchien	n/a	0: person 1 - " No, you use a tool I was using to make my point."								
+932	additional	yuchien	n/a	1: Scene - The apartment.								
+933	additional	yuchien	n/a	2: person 2 - " Guys, our topic is encouraging women in science, can you at least play a less sexist game"								
+934	additional	yuchien	n/a	3: person 1 - How is it sexist? My character wields a battle axe as well as any man.								
+935	additional	yuchien	n/a	4: person 3 - Not to mention she has mammary glands that could nurse a famil y of 30. And have enough milk left over to open a Baskin Robbins.								
+936	additional	yuchien	approbation	0: person 1 - Good. Because I love you.								
+937	additional	yuchien	n/a	1: person 2 - " I love you, too."								
+938	additional	yuchien	n/a	2: person 3 - " Kiss her, you brilliant fool."								
+939	additional	yuchien	tact	3: person 1 - " Well, I'll let you get back to your date."								
+940	additional	yuchien	n/a	4: person 2 - Get back here.								
+941	additional	yuchien	n/a	0: person 1 - " Hi! Stephanie, right?"								
+942	additional	yuchien	agreement	1: person 2 - " Uh-huh. And, and, and you are?"								
+943	additional	yuchien	n/a	2: person 1 - " I'll Penny, I live across the hall. I've heard a lot about you."								
+944	additional	yuchien	n/a	3: person 2 - Really?								
+945	additional	yuchien	agreement	4: person 1 - Mm-hmm.								
+946	additional	yuchien	n/a	0: Scene - The comic book store.								
+947	additional	yuchien	n/a	1: person 1 - " Sheldon, you're wrong. Wolverine was not born wit h bone claws."								
+948	additional	yuchien	n/a	2: person 2 - " Howard, you know me to be a very smart man. Don't you think if I were wrong, I'd know it?"								
+949	additional	yuchien	agreement	3: person 1 - " Okay, first of all??								
+950	additional	yuchien	n/a	4: person 3 - " Give it up, dude, you're arguing with a crazy person."								
+951	additional	yuchien	n/a	0: person 1 - " Okay, that's enough, Howard. The poor guy had a tough time. He had to spend the entire afternoon in jail wearing that suit."								
+952	additional	yuchien	tact	1: person 2 - " You're right, so it would be cruel to mention that after he finished signing autographs, Stan Lee took Stuart and us out for gelato."								
+953	additional	yuchien	n/a	2: person 3 - You had gelato with Stan Lee?								
+954	additional	yuchien	n/a	3: person 2 - He said we could call him Stan.								
+955	additional	yuchien	n/a	4: person 1 - Except for Raj.								
+956	additional	yuchien	tact	0: person 1 - I believe a misunderstanding may have occurred when I aske d yo u to meet my mother.								
+957	additional	yuchien	n/a	1: person 2 - " No misunderstanding. I've learned what that reque st actually means, and I don't want to be joined to another object by an inclined plane wrapped helically around an axis."								
+958	additional	yuchien	n/a	2: person 1 - In what way are you screwed? All I want to do is pr esent y ou a s my boyfriend to my mother so she'll be satisfied that I'll in a relationship.								
+959	additional	yuchien	n/a	3: person 2 - So we'll be perpetrating a ruse?								
+960	additional	yuchien	agreement	4: person 1 - Precisely.								
+961	additional	yuchien	n/a	0: person 1 - " Oh, grow up."								
+962	additional	yuchien	n/a	1: person 2 - " Hey, I didn't say it."								
+963	additional	yuchien	n/a	2: person 3 - " All right, that's enough from the both of you."								
+964	additional	yuchien	n/a	3: person 1 - " Well, he started it."								
+965	additional	yuchien	tact	1: person 2 - " You're right, so it would be cruel to mention tha t after he finished signing autographs, Stan Lee took Stuart and us out for gelato."								
+966	additional	yuchien	n/a	0: person 1 - I believe you. I'd believe you more if you threw a few Apple Jacks in here.								
+967	additional	yuchien	n/a	1: Scene - The soup kitchen.								
+968	additional	yuchien	n/a	2: person 2 - Here you go.								
+969	additional	yuchien	n/a	3: person 3 - Thanks. You got to be kidding me.								
+970	additional	yuchien	tact	4: person 2 - Sorry?								
+971	additional	yuchien	n/a	0: person 1 - " But they'll know I? Should I call myse lf Prof essor Proton, Jr.?"								
+972	additional	yuchien	agreement	1: person 2 - Sounds great.								
+973	additional	yuchien	n/a	2: person 1 - " So, in a way it? I'll your son."								
+974	additional	yuchien	n/a	3: person 2 - " What, Whatever."								
+975	additional	yuchien	n/a	4: person 1 - Father.								
+976	additional	yuchien	n/a	0: person 1 - So we already have you for all that.								
+977	additional	yuchien	n/a	1: person 2 - Are you suggesting I terminate my relationship with Amy?								
+978	additional	yuchien	n/a	2: person 1 - " No, no, of course not. Just have your relationship someplace else."								
+979	additional	yuchien	tact	3: person 2 - " May I point out that for eight long months, I suff ered in sil "ence as your female companion filled our apartment with her off-key country music caterwauling, the unappetizing spectacle of her grinding a pumice stone against her calloused feet in our living room, and night after night of uninformative TV documentaries about the Jersey Shore."								
+980	additional	yuchien	n/a	4: person 1 - Suffered in silence?								
+981	additional	yuchien	tact	0: person 1 - I'm sorry. I don't recall you saying no backsies.								
+982	additional	yuchien	n/a	1: person 2 - Is there anything else?								
+983	additional	yuchien	n/a	2: person 1 -  Yes. I'd like to offer a laudatory statement about Howard? 								
+984	additional	yuchien	n/a	3: person 2 - " I'm sorry, Dr. Cooper, this matter is already closed."								
+985	additional	yuchien	n/a	4: person 1 - But I still have rd Joel Wolowitz left to go.								
+986	additional	yuchien	tact	0: person 1 - " Thanks, sorry to bother you. But I said it like a badass. "								
+987	additional	yuchien	n/a	1: person 2 - " All right, well, can you, like, slip him some money or something?"								
+988	additional	yuchien	n/a	2: person 1 - Really? I've never done that before. Does it work?								
+989	additional	yuchien	n/a	3: person 2 - Do people like money? Is that what you're asking?								
+990	additional	yuchien	n/a	4: person 1 - A lot of attitude from the woman who thought MC squ ared wa s a rapper.								
+991	additional	yuchien	n/a	0: person 1 - " If you want to have intercourse with that girl, fi nd out what kind of cologne her father wore."								
+992	additional	yuchien	tact	1: person 2 - " Good to see you, Mother."								
+993	additional	yuchien	n/a	2: Scene - The apartment.								
+994	additional	yuchien	n/a	3: person 2 - " Here's your tea, Mother."								
+995	additional	yuchien	n/a	4: person 1 - Oolong?								
+996	additional	yuchien	n/a	0: person 1 - " Just my wallet, keys and a coffee can full of chan ge I've been meaning to take to the bank."								
+997	additional	yuchien	n/a	1: person 2 - Don't move. l get some ice.								
+998	additional	yuchien	SYMPATHY	2: person 1 - Are you okay?								
+999	additional	yuchien	n/a	3: person 3 - Get away from me or I swear to God I will rip out what's left of your pubes!								
+1000	additional	yuchien	n/a	4: person 2 - Here.								
+1001	additional	nora	n/a	0: person 1 - I was thinking maybe a library or a gaming room.								
+1002	additional	Nora	Tact	1: person 2 - You could make it a train room.								
+1003	additional	Nora	Tact	2: person 1 - I don’t like trains. You like trains.								
+1004	additional	Nora	Agreement	3: person 2 - " I know, and Amy says I can’t have a train room."								
+1005	additional	Nora	Agreement	4: person 3 - " Sheldon, I just heard from the guys at MIT about that emotion reader. They’re sending a prototype for you to beta test."								
+1006	additional	Nora	n/a	0: person 1 - What’s in the bag?								
+1007	additional	Nora	n/a	1: person 2 - " I don’t want to talk about it. But it’s not a spine,I’ll tell you that."								
+1008	additional	Nora	Approbation	2: person 3 - " Well, I had a delightful evening, Leonard. We should do this again sometime."								
+1009	additional	Nora	Agreement	3: person 1 - " Ah, sure. That’d be nice."								
+1010	additional	Nora	Tact	4: person 3 - Glad to hear it. I need someone to accompany me to the wedding of Dr. Moranelli and Dr. Gustufson this Friday. They’re kind of the Brad and Angelina of the primatology department.								
+1011	additional	Nora	n/a	0: person 1 - " Come on. Don’t make me beg. And I’m from India, so I know how to do it."								
+1012	additional	Nora	Agreement	1: person 2 - Okay.								
+1013	additional	Nora	Agreement	2: person 1 - " Yeah, thank you! This means a lot to me. My friends are like my family. Unless you don’t like them, in which case, they’re dead to me."								
+1014	additional	Nora	n/a	3: Scene - The apartment.								
+1015	additional	Nora	n/a	4: person 3 - " So, have you ever spent a long time on a boat before?"								
+1016	additional	Nora	Tact	0: person 1 - We really need to skedaddle. Thank you.								
+1017	additional	Nora	n/a	1: person 2 - Bye.								
+1018	additional	Nora	n/a	2: person 3 - See you. Should probably erase this.								
+1019	additional	Nora	n/a	3: Scene - Sheldon and Amy’s apartment.								
+1020	additional	Nora	Approbation	4: person 1 - Thank you for making me tea.								
+1021	additional	Nora	n/a	0: person 1 - Me too.								
+1022	additional	Nora	n/a	1: person 2 - " Well, gotta go."								
+1023	additional	Nora	Tact	2: person 1 - Oh! Already? Why don’t you stay over?								
+1024	additional	Nora	Agreement	3: person 2 - " Well, I’d love to, but you know my mother needs me in the morning."								
+1025	additional	Nora	n/a	4: person 1 - " Please, I think the woman can manage to put a wig on by herself."								
+1026	additional	Nora	n/a	0: person 1 - " Sounds like a drama queen. Oh, no. It is Jennifer Lawrence."								
+1027	additional	Nora	Sympathy	1: person 2 - " Five, four, three, two, one. That’s too bad."								
+1028	additional	Nora	n/a	2: person 3 - Maybe we did make the test too difficult.								
+1029	additional	Nora	n/a	3: person 2 - " I don’t think it matters. Look, Sheldon, I believe when the time is right for you to meet someone, it’ll just happen. Okay? Not because of a test or a Web site, but because… (knock on door) we are the dreamers of dreams."								
+1030	additional	Nora	n/a	4: person 3 - " It’s an actual girl, and she’s really pretty."								
+1031	additional	Nora	n/a	0: Scene - Raj’s apartment.								
+1032	additional	Nora	n/a	1: person 1 - Hey.								
+1033	additional	Nora	n/a	2: person 2 - Hi.								
+1034	additional	Nora	Agreement	3: person 3 - " I want to apologize for Amy last night. She was completely out of line. Are you, are you not speaking to me or did the screen freeze again?"								
+1035	additional	Nora	n/a	4: person 2 - Amy wasn’t the problem.								
+1036	additional	Nora	n/a	0: Scene - The Apartment.								
+1037	additional	Nora	n/a	1: person 1 - " Sheldon, your food’s getting cold."								
+1038	additional	Nora	Agreement	2: person 2 - " I’ll eat later. Right now, I’m suckling at the informative bosom of mother physics."								
+1039	additional	Nora	Approbation	3: person 3 - It’s hot when Sheldon talks dirty.								
+1040	additional	Nora	n/a	4: person 4 - " So, I found this Web site where you send them pictures, they sculpt your head and make an action figure out of you. How awesome is that?"								
+1041	additional	Nora	n/a	0: person 1 - " Penny, it’s your lucky day. Three of the eggs are clearly not jumbo. Grab your keys."								
+1042	additional	Nora	n/a	1: Scene - The comic book store.								
+1043	additional	Nora	Tact	2: person 2 - " Uh, Stuart, I was wondering if you could help me find something."								
+1044	additional	Nora	Agreement	3: person 3 - " Happy to, unless it’s hope or a reason to live."								
+1045	additional	Nora	Tact	4: person 2 - " Oh, you make me laugh, sad clown. Anyhoo, Leonard will be back in a couple days and I need a welcome home gift for him. As he’s been at sea, perhaps something with a nautical theme might be appropriate."								
+1046	additional	Nora	n/a	0: person 1 - " I can just picture them all right now at Feynman’s house, probably discussing Schrodinger and at the same time, not discussing Schrodinger. See? They’re missing out on hilarious jokes like that."								
+1047	additional	Nora	n/a	1: person 2 - " And at the same time, not."								
+1048	additional	Nora	n/a	2: person 1 - It reminds me of when my stupid brother and sister would build forts in the living room and wouldn’t let me in. I hated that so much.								
+1049	additional	Nora	Tact	3: person 2 - " You know, there’s nothing I can do about getting you invited to the symposium, but if you wanted, we could build a fort."								
+1050	additional	Nora	n/a	4: person 1 - Isn’t that a little juvenile?								
+1051	additional	Nora	n/a	0: person 1 - How much?								
+1052	additional	Nora	Agreement	1: person 2 - Let’s not talk about this in front of our friends.								
+1053	additional	Nora	n/a	2: person 1 - Was it more or less than falconry school?								
+1054	additional	Nora	n/a	3: person 2 - " For the tenth time, that was a Groupon."								
+1055	additional	Nora	n/a	4: person 3 - Like I would swing with him.								
+1056	additional	Nora	n/a	0: person 1 - Who’s Erno Rubik?								
+1057	additional	Nora	n/a	1: person 2 - Seriously? He invented the Rubik’s Cube.								
+1058	additional	Nora	Agreement	2: person 3 - " Okay, fine, but why would you invite him to our wedding?"								
+1059	additional	Nora	n/a	3: person 2 - " Because, despite his fame and fortune, he strikes me as a lonely man."								
+1060	additional	Nora	Approbation	4: person 1 - " Well, it’s very sweet of you to go to all this trouble for Leonard’s mother."								
+1061	additional	Nora	n/a	0: Scene - A children’s play area.								
+1062	additional	Nora	n/a	1: person 1 - Hi. I’m Dr. Hofstadter. Where is he?								
+1063	additional	Nora	n/a	2: person 2 - Ball pit.								
+1064	additional	Nora	n/a	3: person 1 - Thanks for not calling the cops.								
+1065	additional	Nora	Agreement	4: person 2 - " Oh, hey, it’s no big deal. My sister’s got a kid who’s special."								
+1066	additional	Nora	n/a	0: person 1 - " I don’t know what’s scarier, the bathroom clowns or the woman that put them there."								
+1067	additional	Nora	n/a	1: person 2 - " All I know is you can only fit one of her in a car. And there’s the clown that came out of her. I really didn’t want to come here, but this is shaping up to be one of the best Thanksgivings I’ve had in a long time."								
+1068	additional	Nora	Agreement	2: person 1 - " Me, too."								
+1069	additional	Nora	n/a	3: person 3 - " Hey. Howie says you’ve been making fun of him all day. Now, both of you apologize right now."								
+1070	additional	Nora	n/a	4: person 2 - She’s so tiny. It’s funny when she’s mad.								
+1071	additional	Nora	Approbation	0: person 1 - I’m not saying that you’re not fun. You’re the most fun person I know.								
+1072	additional	Nora	Agreement	1: person 2 - A lot of people think I’m fun to be around.								
+1073	additional	Nora	n/a	2: person 1 - " Don’t be needy, bestie. That’s probably part of what chased Leonard away. What I am saying, Sheldon, is that your group is Leonard-centric. If it were a town, it would be Leonardville. If it were an Islamic nation, Leonardstan. If it were the birthplace of motion pictures, we’d all be singing Hooray for Leonardwood."								
+1074	additional	Nora	n/a	3: person 2 - " Ooh, I got one. If you guys were a band, you’d be called Leonard and the Leonards."								
+1075	additional	Nora	n/a	4: person 1 - So needy.								
+1076	additional	Nora	n/a	0: person 1 - " I don’t know about you guys, but I’m gonna make a beeline for the place that gives you a princess makeover."								
+1077	additional	Nora	Agreement	1: person 2 - " Ooh, that sounds like fun."								
+1078	additional	Nora	Tact	2: person 3 - " You’re kidding, right? We’re not just gonna get drunk and go on rides?"								
+1079	additional	Nora	n/a	3: person 2 - " Come on, do it with us."								
+1080	additional	Nora	Agreement	4: person 3 - " All right, whatever. How does it work?"								
+1081	additional	Nora	Tact	0: person 1 - Can you sing “Soft Kitty”.								
+1082	additional	Nora	n/a	1: person 2 - What?								
+1083	additional	Nora	n/a	2: person 1 - My mom used to sing it to me when I was sick.								
+1084	additional	Nora	Tact	3: person 2 - " I’m sorry, honey, I don’t know it."								
+1085	additional	Nora	n/a	4: person 1 - " I’ll teach you. “Soft kitty, warm kitty, little ball of fur, happy kitty, sleepy kitty, purr purr purr.” Now you. "								
+1086	additional	Nora	n/a	0: person 1 - Why didn’t you tell me you knew Elizabeth Plimpton? I am a huge fan of hers!								
+1087	additional	Nora	n/a	1: person 2 - " I didn’t realize I was obligated to share my connection with things you’re a fan of, but very well. You enjoy Canadian bacon. I’ve been to Toronto."								
+1088	additional	Nora	Agreement	2: person 1 - " Okay, fine. Where is she going to sleep?"								
+1089	additional	Nora	n/a	3: person 2 - " My room, of course."								
+1090	additional	Nora	n/a	4: person 3 - Holy crap! (Through napkin) Holy crap!								
+1091	additional	Nora	Sympathy	0: person 1 - Congratulations.								
+1092	additional	Nora	n/a	1: person 2 - How’s Bernadette?								
+1093	additional	Nora	Approbation	2: person 3 - " Tired, but great. They’re both great."								
+1094	additional	Nora	n/a	3: person 4 - Does the baby have a name yet?								
+1095	additional	Nora	n/a	4: person 3 - We have named her Halley.								
