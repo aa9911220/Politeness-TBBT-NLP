@@ -6,6 +6,7 @@ This project explores the computational modeling of interpersonal pragmatics. Ba
 ## Key Features
 * **Dataset & Context**
   * Source: TBBT transcripts (46,000+ lines).
+  * Source: extracted from Kaggle: https://www.kaggle.com/datasets/mitramir5/the-big-bang-theory-series-transcript
   * Window size: 5 consecutive utterances.
   * Anonymization: Character names replaced to reduce bias.
 * **Models Implemented**
