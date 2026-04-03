@@ -27,7 +27,7 @@ We evaluated our models on the **Joint-Consolidated Data (Test Set)**. While the
 > **Note:** The high Macro-F1 of DistilBERT indicates its superior performance in identifying minority classes like *Sympathy* and *Approbation* compared to traditional keyword-based models.
 
 ## Authors
-Huanyu Dong
-Joel Vázquez
-Nora Grunditz
-Yu Chien Lin
+* Huanyu Dong
+* Joel Vázquez
+* Nora Grunditz
+* Yu Chien Lin
